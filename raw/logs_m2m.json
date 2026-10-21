@@ -1,0 +1,3902 @@
+[
+  {
+    "log_id": "LOG-10001",
+    "timestamp": "2026-10-16T06:58:56",
+    "device_id": "DEV-M2M-018",
+    "ip_address": "192.168.1.246",
+    "level": "ERROR",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 9.56,
+      "latency_ms": 267,
+      "bytes_sent": 14186
+    }
+  },
+  {
+    "log_id": "LOG-10002",
+    "timestamp": "2026-10-16T14:49:47",
+    "device_id": "DEV-M2M-010",
+    "ip_address": "192.168.1.134",
+    "level": "WARNING",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 96.28,
+      "latency_ms": 46,
+      "bytes_sent": 16855
+    }
+  },
+  {
+    "log_id": "LOG-10003",
+    "timestamp": "2026-10-16T06:33:17",
+    "device_id": "DEV-M2M-006",
+    "ip_address": "192.168.1.32",
+    "level": "SUCCESS",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 39.45,
+      "latency_ms": 251,
+      "bytes_sent": 51657
+    }
+  },
+  {
+    "log_id": "LOG-10004",
+    "timestamp": "2026-10-17T21:13:07",
+    "device_id": "DEV-M2M-008",
+    "ip_address": "192.168.1.173",
+    "level": "SUCCESS",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 24.58,
+      "latency_ms": 230,
+      "bytes_sent": 30780
+    }
+  },
+  {
+    "log_id": "LOG-10005",
+    "timestamp": "2026-10-17T14:53:12",
+    "device_id": "DEV-M2M-007",
+    "ip_address": "192.168.1.38",
+    "level": "ERROR",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 42.1,
+      "latency_ms": 204,
+      "bytes_sent": 15143
+    }
+  },
+  {
+    "log_id": "LOG-10006",
+    "timestamp": "2026-10-19T01:27:15",
+    "device_id": "DEV-M2M-003",
+    "ip_address": "192.168.1.113",
+    "level": "SUCCESS",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 86.95,
+      "latency_ms": 120,
+      "bytes_sent": 35195
+    }
+  },
+  {
+    "log_id": "LOG-10007",
+    "timestamp": "2026-10-15T01:50:21",
+    "device_id": "DEV-M2M-012",
+    "ip_address": "192.168.1.213",
+    "level": "INFO",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 71.23,
+      "latency_ms": 14,
+      "bytes_sent": 17302
+    }
+  },
+  {
+    "log_id": "LOG-10008",
+    "timestamp": "2026-10-20T18:39:09",
+    "device_id": "DEV-M2M-005",
+    "ip_address": "192.168.1.18",
+    "level": "SUCCESS",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 31.11,
+      "latency_ms": 400,
+      "bytes_sent": 10008
+    }
+  },
+  {
+    "log_id": "LOG-10009",
+    "timestamp": "2026-10-18T20:07:34",
+    "device_id": "DEV-M2M-012",
+    "ip_address": "192.168.1.239",
+    "level": "SUCCESS",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 51.85,
+      "latency_ms": 271,
+      "bytes_sent": 20528
+    }
+  },
+  {
+    "log_id": "LOG-10010",
+    "timestamp": "2026-10-16T03:01:19",
+    "device_id": "DEV-M2M-017",
+    "ip_address": "192.168.1.184",
+    "level": "INFO",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 11.2,
+      "latency_ms": 304,
+      "bytes_sent": 22788
+    }
+  },
+  {
+    "log_id": "LOG-10011",
+    "timestamp": "2026-10-20T09:51:00",
+    "device_id": "DEV-M2M-015",
+    "ip_address": "192.168.1.224",
+    "level": "INFO",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 77.8,
+      "latency_ms": 424,
+      "bytes_sent": 30315
+    }
+  },
+  {
+    "log_id": "LOG-10012",
+    "timestamp": "2026-10-15T15:07:33",
+    "device_id": "DEV-M2M-006",
+    "ip_address": "192.168.1.246",
+    "level": "WARNING",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 46.97,
+      "latency_ms": 81,
+      "bytes_sent": 5450
+    }
+  },
+  {
+    "log_id": "LOG-10013",
+    "timestamp": "2026-10-15T17:56:33",
+    "device_id": "DEV-M2M-010",
+    "ip_address": "192.168.1.96",
+    "level": "SUCCESS",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 10.6,
+      "latency_ms": 291,
+      "bytes_sent": 45295
+    }
+  },
+  {
+    "log_id": "LOG-10014",
+    "timestamp": "2026-10-18T04:18:36",
+    "device_id": "DEV-M2M-015",
+    "ip_address": "192.168.1.24",
+    "level": "WARNING",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 68.83,
+      "latency_ms": 177,
+      "bytes_sent": 6067
+    }
+  },
+  {
+    "log_id": "LOG-10015",
+    "timestamp": "2026-10-17T07:50:44",
+    "device_id": "DEV-M2M-005",
+    "ip_address": "192.168.1.74",
+    "level": "SUCCESS",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 44.95,
+      "latency_ms": 278,
+      "bytes_sent": 64420
+    }
+  },
+  {
+    "log_id": "LOG-10016",
+    "timestamp": "2026-10-17T19:13:00",
+    "device_id": "DEV-M2M-008",
+    "ip_address": "192.168.1.34",
+    "level": "ERROR",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 6.14,
+      "latency_ms": 334,
+      "bytes_sent": 26046
+    }
+  },
+  {
+    "log_id": "LOG-10017",
+    "timestamp": "2026-10-19T11:53:49",
+    "device_id": "DEV-M2M-019",
+    "ip_address": "192.168.1.21",
+    "level": "ERROR",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 79.34,
+      "latency_ms": 251,
+      "bytes_sent": 43408
+    }
+  },
+  {
+    "log_id": "LOG-10018",
+    "timestamp": "2026-10-16T07:16:44",
+    "device_id": "DEV-M2M-018",
+    "ip_address": "192.168.1.161",
+    "level": "ERROR",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 6.74,
+      "latency_ms": 78,
+      "bytes_sent": 19012
+    }
+  },
+  {
+    "log_id": "LOG-10019",
+    "timestamp": "2026-10-18T02:54:11",
+    "device_id": "DEV-M2M-012",
+    "ip_address": "192.168.1.238",
+    "level": "SUCCESS",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 65.01,
+      "latency_ms": 391,
+      "bytes_sent": 14572
+    }
+  },
+  {
+    "log_id": "LOG-10020",
+    "timestamp": "2026-10-20T04:39:17",
+    "device_id": "DEV-M2M-003",
+    "ip_address": "192.168.1.65",
+    "level": "WARNING",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 18.71,
+      "latency_ms": 72,
+      "bytes_sent": 24371
+    }
+  },
+  {
+    "log_id": "LOG-10021",
+    "timestamp": "2026-10-14T05:10:59",
+    "device_id": "DEV-M2M-015",
+    "ip_address": "192.168.1.230",
+    "level": "WARNING",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 53.24,
+      "latency_ms": 330,
+      "bytes_sent": 36160
+    }
+  },
+  {
+    "log_id": "LOG-10022",
+    "timestamp": "2026-10-16T11:06:34",
+    "device_id": "DEV-M2M-005",
+    "ip_address": "192.168.1.127",
+    "level": "ERROR",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 68.53,
+      "latency_ms": 386,
+      "bytes_sent": 16876
+    }
+  },
+  {
+    "log_id": "LOG-10023",
+    "timestamp": "2026-10-16T20:22:17",
+    "device_id": "DEV-M2M-014",
+    "ip_address": "192.168.1.62",
+    "level": "SUCCESS",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 75.63,
+      "latency_ms": 135,
+      "bytes_sent": 3379
+    }
+  },
+  {
+    "log_id": "LOG-10024",
+    "timestamp": "2026-10-18T02:03:01",
+    "device_id": "DEV-M2M-015",
+    "ip_address": "192.168.1.122",
+    "level": "INFO",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 56.96,
+      "latency_ms": 114,
+      "bytes_sent": 62441
+    }
+  },
+  {
+    "log_id": "LOG-10025",
+    "timestamp": "2026-10-14T08:04:08",
+    "device_id": "DEV-M2M-015",
+    "ip_address": "192.168.1.168",
+    "level": "INFO",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 43.71,
+      "latency_ms": 241,
+      "bytes_sent": 43859
+    }
+  },
+  {
+    "log_id": "LOG-10026",
+    "timestamp": "2026-10-17T06:06:12",
+    "device_id": "DEV-M2M-020",
+    "ip_address": "192.168.1.46",
+    "level": "SUCCESS",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 8.35,
+      "latency_ms": 146,
+      "bytes_sent": 39741
+    }
+  },
+  {
+    "log_id": "LOG-10027",
+    "timestamp": "2026-10-15T09:33:11",
+    "device_id": "DEV-M2M-003",
+    "ip_address": "192.168.1.169",
+    "level": "SUCCESS",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 53.92,
+      "latency_ms": 47,
+      "bytes_sent": 9748
+    }
+  },
+  {
+    "log_id": "LOG-10028",
+    "timestamp": "2026-10-19T15:01:30",
+    "device_id": "DEV-M2M-014",
+    "ip_address": "192.168.1.37",
+    "level": "ERROR",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 27.42,
+      "latency_ms": 120,
+      "bytes_sent": 42349
+    }
+  },
+  {
+    "log_id": "LOG-10029",
+    "timestamp": "2026-10-20T09:06:36",
+    "device_id": "DEV-M2M-004",
+    "ip_address": "192.168.1.69",
+    "level": "WARNING",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 21.17,
+      "latency_ms": 310,
+      "bytes_sent": 51393
+    }
+  },
+  {
+    "log_id": "LOG-10030",
+    "timestamp": "2026-10-16T06:09:10",
+    "device_id": "DEV-M2M-015",
+    "ip_address": "192.168.1.45",
+    "level": "INFO",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 89.24,
+      "latency_ms": 376,
+      "bytes_sent": 52192
+    }
+  },
+  {
+    "log_id": "LOG-10031",
+    "timestamp": "2026-10-20T03:09:12",
+    "device_id": "DEV-M2M-008",
+    "ip_address": "192.168.1.36",
+    "level": "INFO",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 89.76,
+      "latency_ms": 270,
+      "bytes_sent": 59360
+    }
+  },
+  {
+    "log_id": "LOG-10032",
+    "timestamp": "2026-10-15T11:34:28",
+    "device_id": "DEV-M2M-019",
+    "ip_address": "192.168.1.178",
+    "level": "SUCCESS",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 15.31,
+      "latency_ms": 30,
+      "bytes_sent": 29511
+    }
+  },
+  {
+    "log_id": "LOG-10033",
+    "timestamp": "2026-10-20T20:29:17",
+    "device_id": "DEV-M2M-020",
+    "ip_address": "192.168.1.164",
+    "level": "INFO",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 42.87,
+      "latency_ms": 78,
+      "bytes_sent": 46004
+    }
+  },
+  {
+    "log_id": "LOG-10034",
+    "timestamp": "2026-10-14T15:36:41",
+    "device_id": "DEV-M2M-004",
+    "ip_address": "192.168.1.83",
+    "level": "INFO",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 32.94,
+      "latency_ms": 130,
+      "bytes_sent": 10992
+    }
+  },
+  {
+    "log_id": "LOG-10035",
+    "timestamp": "2026-10-18T15:23:29",
+    "device_id": "DEV-M2M-018",
+    "ip_address": "192.168.1.107",
+    "level": "WARNING",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 70.52,
+      "latency_ms": 132,
+      "bytes_sent": 20110
+    }
+  },
+  {
+    "log_id": "LOG-10036",
+    "timestamp": "2026-10-18T15:38:48",
+    "device_id": "DEV-M2M-008",
+    "ip_address": "192.168.1.130",
+    "level": "WARNING",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 43.35,
+      "latency_ms": 316,
+      "bytes_sent": 10891
+    }
+  },
+  {
+    "log_id": "LOG-10037",
+    "timestamp": "2026-10-19T22:34:55",
+    "device_id": "DEV-M2M-015",
+    "ip_address": "192.168.1.134",
+    "level": "WARNING",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 76.23,
+      "latency_ms": 397,
+      "bytes_sent": 59618
+    }
+  },
+  {
+    "log_id": "LOG-10038",
+    "timestamp": "2026-10-16T05:50:53",
+    "device_id": "DEV-M2M-011",
+    "ip_address": "192.168.1.209",
+    "level": "INFO",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 34.3,
+      "latency_ms": 145,
+      "bytes_sent": 2322
+    }
+  },
+  {
+    "log_id": "LOG-10039",
+    "timestamp": "2026-10-18T11:31:17",
+    "device_id": "DEV-M2M-005",
+    "ip_address": "192.168.1.75",
+    "level": "ERROR",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 63.01,
+      "latency_ms": 145,
+      "bytes_sent": 55823
+    }
+  },
+  {
+    "log_id": "LOG-10040",
+    "timestamp": "2026-10-14T14:25:53",
+    "device_id": "DEV-M2M-015",
+    "ip_address": "192.168.1.181",
+    "level": "ERROR",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 21.59,
+      "latency_ms": 20,
+      "bytes_sent": 24462
+    }
+  },
+  {
+    "log_id": "LOG-10041",
+    "timestamp": "2026-10-19T18:46:03",
+    "device_id": "DEV-M2M-002",
+    "ip_address": "192.168.1.228",
+    "level": "SUCCESS",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 38.27,
+      "latency_ms": 128,
+      "bytes_sent": 297
+    }
+  },
+  {
+    "log_id": "LOG-10042",
+    "timestamp": "2026-10-18T12:54:22",
+    "device_id": "DEV-M2M-005",
+    "ip_address": "192.168.1.135",
+    "level": "SUCCESS",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 91.18,
+      "latency_ms": 105,
+      "bytes_sent": 27709
+    }
+  },
+  {
+    "log_id": "LOG-10043",
+    "timestamp": "2026-10-19T05:58:15",
+    "device_id": "DEV-M2M-009",
+    "ip_address": "192.168.1.104",
+    "level": "WARNING",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 31.75,
+      "latency_ms": 213,
+      "bytes_sent": 9177
+    }
+  },
+  {
+    "log_id": "LOG-10044",
+    "timestamp": "2026-10-15T22:06:23",
+    "device_id": "DEV-M2M-017",
+    "ip_address": "192.168.1.179",
+    "level": "SUCCESS",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 91.45,
+      "latency_ms": 225,
+      "bytes_sent": 57675
+    }
+  },
+  {
+    "log_id": "LOG-10045",
+    "timestamp": "2026-10-20T07:20:24",
+    "device_id": "DEV-M2M-002",
+    "ip_address": "192.168.1.23",
+    "level": "INFO",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 75.7,
+      "latency_ms": 260,
+      "bytes_sent": 18872
+    }
+  },
+  {
+    "log_id": "LOG-10046",
+    "timestamp": "2026-10-19T11:20:14",
+    "device_id": "DEV-M2M-012",
+    "ip_address": "192.168.1.169",
+    "level": "ERROR",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 39.31,
+      "latency_ms": 255,
+      "bytes_sent": 16026
+    }
+  },
+  {
+    "log_id": "LOG-10047",
+    "timestamp": "2026-10-15T13:59:56",
+    "device_id": "DEV-M2M-015",
+    "ip_address": "192.168.1.200",
+    "level": "INFO",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 14.52,
+      "latency_ms": 399,
+      "bytes_sent": 31688
+    }
+  },
+  {
+    "log_id": "LOG-10048",
+    "timestamp": "2026-10-15T02:39:54",
+    "device_id": "DEV-M2M-018",
+    "ip_address": "192.168.1.25",
+    "level": "SUCCESS",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 81.56,
+      "latency_ms": 435,
+      "bytes_sent": 25177
+    }
+  },
+  {
+    "log_id": "LOG-10049",
+    "timestamp": "2026-10-15T22:11:11",
+    "device_id": "DEV-M2M-003",
+    "ip_address": "192.168.1.152",
+    "level": "WARNING",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 52.93,
+      "latency_ms": 223,
+      "bytes_sent": 48616
+    }
+  },
+  {
+    "log_id": "LOG-10050",
+    "timestamp": "2026-10-19T00:09:57",
+    "device_id": "DEV-M2M-006",
+    "ip_address": "192.168.1.243",
+    "level": "INFO",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 74.67,
+      "latency_ms": 309,
+      "bytes_sent": 6891
+    }
+  },
+  {
+    "log_id": "LOG-10051",
+    "timestamp": "2026-10-14T01:57:20",
+    "device_id": "DEV-M2M-006",
+    "ip_address": "192.168.1.75",
+    "level": "WARNING",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 16.87,
+      "latency_ms": 379,
+      "bytes_sent": 18955
+    }
+  },
+  {
+    "log_id": "LOG-10052",
+    "timestamp": "2026-10-20T08:22:19",
+    "device_id": "DEV-M2M-019",
+    "ip_address": "192.168.1.158",
+    "level": "WARNING",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 57.94,
+      "latency_ms": 363,
+      "bytes_sent": 5849
+    }
+  },
+  {
+    "log_id": "LOG-10053",
+    "timestamp": "2026-10-16T06:27:34",
+    "device_id": "DEV-M2M-005",
+    "ip_address": "192.168.1.23",
+    "level": "WARNING",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 16.22,
+      "latency_ms": 85,
+      "bytes_sent": 31731
+    }
+  },
+  {
+    "log_id": "LOG-10054",
+    "timestamp": "2026-10-19T23:50:54",
+    "device_id": "DEV-M2M-010",
+    "ip_address": "192.168.1.57",
+    "level": "WARNING",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 19.9,
+      "latency_ms": 227,
+      "bytes_sent": 31648
+    }
+  },
+  {
+    "log_id": "LOG-10055",
+    "timestamp": "2026-10-14T15:36:17",
+    "device_id": "DEV-M2M-006",
+    "ip_address": "192.168.1.101",
+    "level": "INFO",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 28.58,
+      "latency_ms": 352,
+      "bytes_sent": 429
+    }
+  },
+  {
+    "log_id": "LOG-10056",
+    "timestamp": "2026-10-14T00:19:10",
+    "device_id": "DEV-M2M-011",
+    "ip_address": "192.168.1.19",
+    "level": "WARNING",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 26.65,
+      "latency_ms": 334,
+      "bytes_sent": 10568
+    }
+  },
+  {
+    "log_id": "LOG-10057",
+    "timestamp": "2026-10-18T21:30:49",
+    "device_id": "DEV-M2M-008",
+    "ip_address": "192.168.1.173",
+    "level": "WARNING",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 18.8,
+      "latency_ms": 307,
+      "bytes_sent": 22045
+    }
+  },
+  {
+    "log_id": "LOG-10058",
+    "timestamp": "2026-10-18T04:20:01",
+    "device_id": "DEV-M2M-013",
+    "ip_address": "192.168.1.91",
+    "level": "WARNING",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 33.36,
+      "latency_ms": 156,
+      "bytes_sent": 33967
+    }
+  },
+  {
+    "log_id": "LOG-10059",
+    "timestamp": "2026-10-19T01:14:41",
+    "device_id": "DEV-M2M-006",
+    "ip_address": "192.168.1.179",
+    "level": "WARNING",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 40.5,
+      "latency_ms": 280,
+      "bytes_sent": 28686
+    }
+  },
+  {
+    "log_id": "LOG-10060",
+    "timestamp": "2026-10-16T02:51:40",
+    "device_id": "DEV-M2M-009",
+    "ip_address": "192.168.1.64",
+    "level": "SUCCESS",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 91.98,
+      "latency_ms": 117,
+      "bytes_sent": 8341
+    }
+  },
+  {
+    "log_id": "LOG-10061",
+    "timestamp": "2026-10-15T04:43:46",
+    "device_id": "DEV-M2M-003",
+    "ip_address": "192.168.1.116",
+    "level": "SUCCESS",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 33.5,
+      "latency_ms": 326,
+      "bytes_sent": 8543
+    }
+  },
+  {
+    "log_id": "LOG-10062",
+    "timestamp": "2026-10-20T00:17:46",
+    "device_id": "DEV-M2M-020",
+    "ip_address": "192.168.1.201",
+    "level": "SUCCESS",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 91.71,
+      "latency_ms": 325,
+      "bytes_sent": 23336
+    }
+  },
+  {
+    "log_id": "LOG-10063",
+    "timestamp": "2026-10-14T22:06:47",
+    "device_id": "DEV-M2M-006",
+    "ip_address": "192.168.1.62",
+    "level": "ERROR",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 21.21,
+      "latency_ms": 37,
+      "bytes_sent": 25422
+    }
+  },
+  {
+    "log_id": "LOG-10064",
+    "timestamp": "2026-10-18T08:33:41",
+    "device_id": "DEV-M2M-017",
+    "ip_address": "192.168.1.61",
+    "level": "SUCCESS",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 26.74,
+      "latency_ms": 195,
+      "bytes_sent": 11444
+    }
+  },
+  {
+    "log_id": "LOG-10065",
+    "timestamp": "2026-10-14T01:49:58",
+    "device_id": "DEV-M2M-016",
+    "ip_address": "192.168.1.129",
+    "level": "WARNING",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 87.63,
+      "latency_ms": 174,
+      "bytes_sent": 4660
+    }
+  },
+  {
+    "log_id": "LOG-10066",
+    "timestamp": "2026-10-19T00:39:32",
+    "device_id": "DEV-M2M-015",
+    "ip_address": "192.168.1.100",
+    "level": "INFO",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 50.84,
+      "latency_ms": 420,
+      "bytes_sent": 4864
+    }
+  },
+  {
+    "log_id": "LOG-10067",
+    "timestamp": "2026-10-18T08:49:03",
+    "device_id": "DEV-M2M-012",
+    "ip_address": "192.168.1.156",
+    "level": "ERROR",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 10.48,
+      "latency_ms": 415,
+      "bytes_sent": 53756
+    }
+  },
+  {
+    "log_id": "LOG-10068",
+    "timestamp": "2026-10-19T14:39:04",
+    "device_id": "DEV-M2M-013",
+    "ip_address": "192.168.1.86",
+    "level": "WARNING",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 80.05,
+      "latency_ms": 99,
+      "bytes_sent": 55394
+    }
+  },
+  {
+    "log_id": "LOG-10069",
+    "timestamp": "2026-10-20T10:33:28",
+    "device_id": "DEV-M2M-007",
+    "ip_address": "192.168.1.241",
+    "level": "WARNING",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 53.38,
+      "latency_ms": 147,
+      "bytes_sent": 51451
+    }
+  },
+  {
+    "log_id": "LOG-10070",
+    "timestamp": "2026-10-15T04:08:33",
+    "device_id": "DEV-M2M-005",
+    "ip_address": "192.168.1.101",
+    "level": "INFO",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 62.43,
+      "latency_ms": 352,
+      "bytes_sent": 20651
+    }
+  },
+  {
+    "log_id": "LOG-10071",
+    "timestamp": "2026-10-17T08:35:00",
+    "device_id": "DEV-M2M-012",
+    "ip_address": "192.168.1.155",
+    "level": "ERROR",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 44.1,
+      "latency_ms": 270,
+      "bytes_sent": 34071
+    }
+  },
+  {
+    "log_id": "LOG-10072",
+    "timestamp": "2026-10-16T16:07:13",
+    "device_id": "DEV-M2M-014",
+    "ip_address": "192.168.1.25",
+    "level": "INFO",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 39.87,
+      "latency_ms": 432,
+      "bytes_sent": 12944
+    }
+  },
+  {
+    "log_id": "LOG-10073",
+    "timestamp": "2026-10-16T18:46:17",
+    "device_id": "DEV-M2M-011",
+    "ip_address": "192.168.1.210",
+    "level": "WARNING",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 96.58,
+      "latency_ms": 168,
+      "bytes_sent": 5456
+    }
+  },
+  {
+    "log_id": "LOG-10074",
+    "timestamp": "2026-10-17T15:51:46",
+    "device_id": "DEV-M2M-018",
+    "ip_address": "192.168.1.79",
+    "level": "WARNING",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 6.7,
+      "latency_ms": 123,
+      "bytes_sent": 15935
+    }
+  },
+  {
+    "log_id": "LOG-10075",
+    "timestamp": "2026-10-14T08:08:24",
+    "device_id": "DEV-M2M-017",
+    "ip_address": "192.168.1.11",
+    "level": "ERROR",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 42.49,
+      "latency_ms": 245,
+      "bytes_sent": 22567
+    }
+  },
+  {
+    "log_id": "LOG-10076",
+    "timestamp": "2026-10-15T02:50:24",
+    "device_id": "DEV-M2M-013",
+    "ip_address": "192.168.1.221",
+    "level": "SUCCESS",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 72.26,
+      "latency_ms": 181,
+      "bytes_sent": 47747
+    }
+  },
+  {
+    "log_id": "LOG-10077",
+    "timestamp": "2026-10-18T23:14:22",
+    "device_id": "DEV-M2M-003",
+    "ip_address": "192.168.1.157",
+    "level": "INFO",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 33.86,
+      "latency_ms": 250,
+      "bytes_sent": 50745
+    }
+  },
+  {
+    "log_id": "LOG-10078",
+    "timestamp": "2026-10-14T19:48:39",
+    "device_id": "DEV-M2M-014",
+    "ip_address": "192.168.1.60",
+    "level": "WARNING",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 26.18,
+      "latency_ms": 91,
+      "bytes_sent": 7346
+    }
+  },
+  {
+    "log_id": "LOG-10079",
+    "timestamp": "2026-10-14T23:04:31",
+    "device_id": "DEV-M2M-017",
+    "ip_address": "192.168.1.212",
+    "level": "WARNING",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 60.71,
+      "latency_ms": 106,
+      "bytes_sent": 49223
+    }
+  },
+  {
+    "log_id": "LOG-10080",
+    "timestamp": "2026-10-18T13:04:27",
+    "device_id": "DEV-M2M-015",
+    "ip_address": "192.168.1.29",
+    "level": "WARNING",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 36.58,
+      "latency_ms": 358,
+      "bytes_sent": 62922
+    }
+  },
+  {
+    "log_id": "LOG-10081",
+    "timestamp": "2026-10-15T20:05:34",
+    "device_id": "DEV-M2M-003",
+    "ip_address": "192.168.1.202",
+    "level": "WARNING",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 74.83,
+      "latency_ms": 448,
+      "bytes_sent": 18363
+    }
+  },
+  {
+    "log_id": "LOG-10082",
+    "timestamp": "2026-10-14T10:10:58",
+    "device_id": "DEV-M2M-006",
+    "ip_address": "192.168.1.99",
+    "level": "INFO",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 8.04,
+      "latency_ms": 96,
+      "bytes_sent": 27761
+    }
+  },
+  {
+    "log_id": "LOG-10083",
+    "timestamp": "2026-10-20T08:44:19",
+    "device_id": "DEV-M2M-002",
+    "ip_address": "192.168.1.236",
+    "level": "WARNING",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 23.26,
+      "latency_ms": 53,
+      "bytes_sent": 47950
+    }
+  },
+  {
+    "log_id": "LOG-10084",
+    "timestamp": "2026-10-18T15:51:25",
+    "device_id": "DEV-M2M-005",
+    "ip_address": "192.168.1.118",
+    "level": "WARNING",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 84.32,
+      "latency_ms": 279,
+      "bytes_sent": 40300
+    }
+  },
+  {
+    "log_id": "LOG-10085",
+    "timestamp": "2026-10-17T22:34:43",
+    "device_id": "DEV-M2M-017",
+    "ip_address": "192.168.1.230",
+    "level": "INFO",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 53.3,
+      "latency_ms": 219,
+      "bytes_sent": 9902
+    }
+  },
+  {
+    "log_id": "LOG-10086",
+    "timestamp": "2026-10-20T10:24:35",
+    "device_id": "DEV-M2M-015",
+    "ip_address": "192.168.1.180",
+    "level": "WARNING",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 54.46,
+      "latency_ms": 291,
+      "bytes_sent": 29991
+    }
+  },
+  {
+    "log_id": "LOG-10087",
+    "timestamp": "2026-10-15T10:05:08",
+    "device_id": "DEV-M2M-006",
+    "ip_address": "192.168.1.37",
+    "level": "SUCCESS",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 93.44,
+      "latency_ms": 369,
+      "bytes_sent": 14818
+    }
+  },
+  {
+    "log_id": "LOG-10088",
+    "timestamp": "2026-10-14T14:31:56",
+    "device_id": "DEV-M2M-017",
+    "ip_address": "192.168.1.244",
+    "level": "INFO",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 34.16,
+      "latency_ms": 180,
+      "bytes_sent": 15693
+    }
+  },
+  {
+    "log_id": "LOG-10089",
+    "timestamp": "2026-10-19T18:48:43",
+    "device_id": "DEV-M2M-003",
+    "ip_address": "192.168.1.41",
+    "level": "INFO",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 62.5,
+      "latency_ms": 337,
+      "bytes_sent": 16417
+    }
+  },
+  {
+    "log_id": "LOG-10090",
+    "timestamp": "2026-10-19T22:14:51",
+    "device_id": "DEV-M2M-018",
+    "ip_address": "192.168.1.124",
+    "level": "INFO",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 77.13,
+      "latency_ms": 134,
+      "bytes_sent": 20986
+    }
+  },
+  {
+    "log_id": "LOG-10091",
+    "timestamp": "2026-10-17T11:52:04",
+    "device_id": "DEV-M2M-006",
+    "ip_address": "192.168.1.23",
+    "level": "SUCCESS",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 93.04,
+      "latency_ms": 317,
+      "bytes_sent": 4996
+    }
+  },
+  {
+    "log_id": "LOG-10092",
+    "timestamp": "2026-10-14T01:21:03",
+    "device_id": "DEV-M2M-002",
+    "ip_address": "192.168.1.40",
+    "level": "INFO",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 87.39,
+      "latency_ms": 331,
+      "bytes_sent": 47062
+    }
+  },
+  {
+    "log_id": "LOG-10093",
+    "timestamp": "2026-10-18T17:36:06",
+    "device_id": "DEV-M2M-010",
+    "ip_address": "192.168.1.172",
+    "level": "INFO",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 89.12,
+      "latency_ms": 75,
+      "bytes_sent": 42734
+    }
+  },
+  {
+    "log_id": "LOG-10094",
+    "timestamp": "2026-10-20T16:20:44",
+    "device_id": "DEV-M2M-004",
+    "ip_address": "192.168.1.137",
+    "level": "SUCCESS",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 77.0,
+      "latency_ms": 67,
+      "bytes_sent": 51062
+    }
+  },
+  {
+    "log_id": "LOG-10095",
+    "timestamp": "2026-10-19T20:38:31",
+    "device_id": "DEV-M2M-011",
+    "ip_address": "192.168.1.204",
+    "level": "WARNING",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 81.43,
+      "latency_ms": 305,
+      "bytes_sent": 39821
+    }
+  },
+  {
+    "log_id": "LOG-10096",
+    "timestamp": "2026-10-16T19:29:15",
+    "device_id": "DEV-M2M-011",
+    "ip_address": "192.168.1.155",
+    "level": "WARNING",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 63.86,
+      "latency_ms": 227,
+      "bytes_sent": 62106
+    }
+  },
+  {
+    "log_id": "LOG-10097",
+    "timestamp": "2026-10-16T23:24:39",
+    "device_id": "DEV-M2M-002",
+    "ip_address": "192.168.1.150",
+    "level": "WARNING",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 80.34,
+      "latency_ms": 29,
+      "bytes_sent": 12093
+    }
+  },
+  {
+    "log_id": "LOG-10098",
+    "timestamp": "2026-10-19T08:07:23",
+    "device_id": "DEV-M2M-016",
+    "ip_address": "192.168.1.93",
+    "level": "ERROR",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 81.3,
+      "latency_ms": 153,
+      "bytes_sent": 23371
+    }
+  },
+  {
+    "log_id": "LOG-10099",
+    "timestamp": "2026-10-17T06:51:00",
+    "device_id": "DEV-M2M-009",
+    "ip_address": "192.168.1.117",
+    "level": "WARNING",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 37.12,
+      "latency_ms": 315,
+      "bytes_sent": 45061
+    }
+  },
+  {
+    "log_id": "LOG-10100",
+    "timestamp": "2026-10-18T00:55:52",
+    "device_id": "DEV-M2M-001",
+    "ip_address": "192.168.1.144",
+    "level": "WARNING",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 26.79,
+      "latency_ms": 218,
+      "bytes_sent": 49626
+    }
+  },
+  {
+    "log_id": "LOG-10101",
+    "timestamp": "2026-10-20T07:24:22",
+    "device_id": "DEV-M2M-019",
+    "ip_address": "192.168.1.138",
+    "level": "SUCCESS",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 98.88,
+      "latency_ms": 421,
+      "bytes_sent": 22077
+    }
+  },
+  {
+    "log_id": "LOG-10102",
+    "timestamp": "2026-10-16T23:37:55",
+    "device_id": "DEV-M2M-008",
+    "ip_address": "192.168.1.206",
+    "level": "INFO",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 94.09,
+      "latency_ms": 369,
+      "bytes_sent": 24135
+    }
+  },
+  {
+    "log_id": "LOG-10103",
+    "timestamp": "2026-10-16T13:41:33",
+    "device_id": "DEV-M2M-014",
+    "ip_address": "192.168.1.142",
+    "level": "INFO",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 96.99,
+      "latency_ms": 443,
+      "bytes_sent": 11824
+    }
+  },
+  {
+    "log_id": "LOG-10104",
+    "timestamp": "2026-10-19T12:48:17",
+    "device_id": "DEV-M2M-001",
+    "ip_address": "192.168.1.197",
+    "level": "ERROR",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 67.47,
+      "latency_ms": 285,
+      "bytes_sent": 26002
+    }
+  },
+  {
+    "log_id": "LOG-10105",
+    "timestamp": "2026-10-20T18:27:37",
+    "device_id": "DEV-M2M-010",
+    "ip_address": "192.168.1.147",
+    "level": "INFO",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 14.95,
+      "latency_ms": 157,
+      "bytes_sent": 47013
+    }
+  },
+  {
+    "log_id": "LOG-10106",
+    "timestamp": "2026-10-15T13:11:18",
+    "device_id": "DEV-M2M-019",
+    "ip_address": "192.168.1.151",
+    "level": "INFO",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 88.2,
+      "latency_ms": 50,
+      "bytes_sent": 16303
+    }
+  },
+  {
+    "log_id": "LOG-10107",
+    "timestamp": "2026-10-14T03:13:11",
+    "device_id": "DEV-M2M-012",
+    "ip_address": "192.168.1.77",
+    "level": "ERROR",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 11.34,
+      "latency_ms": 261,
+      "bytes_sent": 51462
+    }
+  },
+  {
+    "log_id": "LOG-10108",
+    "timestamp": "2026-10-19T13:29:16",
+    "device_id": "DEV-M2M-014",
+    "ip_address": "192.168.1.48",
+    "level": "WARNING",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 56.26,
+      "latency_ms": 219,
+      "bytes_sent": 42005
+    }
+  },
+  {
+    "log_id": "LOG-10109",
+    "timestamp": "2026-10-20T18:00:03",
+    "device_id": "DEV-M2M-020",
+    "ip_address": "192.168.1.172",
+    "level": "ERROR",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 43.58,
+      "latency_ms": 259,
+      "bytes_sent": 44272
+    }
+  },
+  {
+    "log_id": "LOG-10110",
+    "timestamp": "2026-10-15T07:22:45",
+    "device_id": "DEV-M2M-008",
+    "ip_address": "192.168.1.236",
+    "level": "ERROR",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 52.8,
+      "latency_ms": 424,
+      "bytes_sent": 56615
+    }
+  },
+  {
+    "log_id": "LOG-10111",
+    "timestamp": "2026-10-15T01:36:39",
+    "device_id": "DEV-M2M-001",
+    "ip_address": "192.168.1.80",
+    "level": "SUCCESS",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 34.89,
+      "latency_ms": 199,
+      "bytes_sent": 45885
+    }
+  },
+  {
+    "log_id": "LOG-10112",
+    "timestamp": "2026-10-19T20:37:55",
+    "device_id": "DEV-M2M-006",
+    "ip_address": "192.168.1.210",
+    "level": "ERROR",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 71.69,
+      "latency_ms": 353,
+      "bytes_sent": 39010
+    }
+  },
+  {
+    "log_id": "LOG-10113",
+    "timestamp": "2026-10-15T09:51:20",
+    "device_id": "DEV-M2M-010",
+    "ip_address": "192.168.1.48",
+    "level": "SUCCESS",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 96.92,
+      "latency_ms": 166,
+      "bytes_sent": 58172
+    }
+  },
+  {
+    "log_id": "LOG-10114",
+    "timestamp": "2026-10-20T05:33:04",
+    "device_id": "DEV-M2M-004",
+    "ip_address": "192.168.1.149",
+    "level": "INFO",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 10.75,
+      "latency_ms": 201,
+      "bytes_sent": 21385
+    }
+  },
+  {
+    "log_id": "LOG-10115",
+    "timestamp": "2026-10-16T16:14:45",
+    "device_id": "DEV-M2M-015",
+    "ip_address": "192.168.1.75",
+    "level": "ERROR",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 47.52,
+      "latency_ms": 373,
+      "bytes_sent": 35744
+    }
+  },
+  {
+    "log_id": "LOG-10116",
+    "timestamp": "2026-10-19T13:31:18",
+    "device_id": "DEV-M2M-002",
+    "ip_address": "192.168.1.142",
+    "level": "ERROR",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 58.33,
+      "latency_ms": 359,
+      "bytes_sent": 63571
+    }
+  },
+  {
+    "log_id": "LOG-10117",
+    "timestamp": "2026-10-15T18:58:51",
+    "device_id": "DEV-M2M-014",
+    "ip_address": "192.168.1.82",
+    "level": "ERROR",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 59.65,
+      "latency_ms": 339,
+      "bytes_sent": 25904
+    }
+  },
+  {
+    "log_id": "LOG-10118",
+    "timestamp": "2026-10-19T22:40:24",
+    "device_id": "DEV-M2M-011",
+    "ip_address": "192.168.1.133",
+    "level": "SUCCESS",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 92.06,
+      "latency_ms": 69,
+      "bytes_sent": 520
+    }
+  },
+  {
+    "log_id": "LOG-10119",
+    "timestamp": "2026-10-14T19:17:12",
+    "device_id": "DEV-M2M-004",
+    "ip_address": "192.168.1.67",
+    "level": "SUCCESS",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 35.53,
+      "latency_ms": 111,
+      "bytes_sent": 3978
+    }
+  },
+  {
+    "log_id": "LOG-10120",
+    "timestamp": "2026-10-14T00:23:57",
+    "device_id": "DEV-M2M-008",
+    "ip_address": "192.168.1.24",
+    "level": "WARNING",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 95.8,
+      "latency_ms": 139,
+      "bytes_sent": 57636
+    }
+  },
+  {
+    "log_id": "LOG-10121",
+    "timestamp": "2026-10-17T00:13:55",
+    "device_id": "DEV-M2M-015",
+    "ip_address": "192.168.1.28",
+    "level": "ERROR",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 17.82,
+      "latency_ms": 283,
+      "bytes_sent": 51100
+    }
+  },
+  {
+    "log_id": "LOG-10122",
+    "timestamp": "2026-10-14T11:47:55",
+    "device_id": "DEV-M2M-016",
+    "ip_address": "192.168.1.47",
+    "level": "INFO",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 49.99,
+      "latency_ms": 363,
+      "bytes_sent": 50040
+    }
+  },
+  {
+    "log_id": "LOG-10123",
+    "timestamp": "2026-10-15T13:31:53",
+    "device_id": "DEV-M2M-020",
+    "ip_address": "192.168.1.145",
+    "level": "INFO",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 98.5,
+      "latency_ms": 97,
+      "bytes_sent": 7692
+    }
+  },
+  {
+    "log_id": "LOG-10124",
+    "timestamp": "2026-10-15T20:33:55",
+    "device_id": "DEV-M2M-018",
+    "ip_address": "192.168.1.88",
+    "level": "WARNING",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 44.45,
+      "latency_ms": 129,
+      "bytes_sent": 11584
+    }
+  },
+  {
+    "log_id": "LOG-10125",
+    "timestamp": "2026-10-14T17:36:54",
+    "device_id": "DEV-M2M-014",
+    "ip_address": "192.168.1.66",
+    "level": "SUCCESS",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 64.38,
+      "latency_ms": 255,
+      "bytes_sent": 30055
+    }
+  },
+  {
+    "log_id": "LOG-10126",
+    "timestamp": "2026-10-18T09:34:32",
+    "device_id": "DEV-M2M-011",
+    "ip_address": "192.168.1.234",
+    "level": "ERROR",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 83.74,
+      "latency_ms": 339,
+      "bytes_sent": 47941
+    }
+  },
+  {
+    "log_id": "LOG-10127",
+    "timestamp": "2026-10-17T07:38:44",
+    "device_id": "DEV-M2M-012",
+    "ip_address": "192.168.1.79",
+    "level": "SUCCESS",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 29.51,
+      "latency_ms": 318,
+      "bytes_sent": 13073
+    }
+  },
+  {
+    "log_id": "LOG-10128",
+    "timestamp": "2026-10-20T09:10:44",
+    "device_id": "DEV-M2M-016",
+    "ip_address": "192.168.1.59",
+    "level": "SUCCESS",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 43.56,
+      "latency_ms": 46,
+      "bytes_sent": 29404
+    }
+  },
+  {
+    "log_id": "LOG-10129",
+    "timestamp": "2026-10-14T21:57:05",
+    "device_id": "DEV-M2M-001",
+    "ip_address": "192.168.1.244",
+    "level": "ERROR",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 36.48,
+      "latency_ms": 124,
+      "bytes_sent": 64470
+    }
+  },
+  {
+    "log_id": "LOG-10130",
+    "timestamp": "2026-10-17T08:00:03",
+    "device_id": "DEV-M2M-001",
+    "ip_address": "192.168.1.83",
+    "level": "WARNING",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 62.35,
+      "latency_ms": 184,
+      "bytes_sent": 13337
+    }
+  },
+  {
+    "log_id": "LOG-10131",
+    "timestamp": "2026-10-16T12:07:22",
+    "device_id": "DEV-M2M-016",
+    "ip_address": "192.168.1.162",
+    "level": "WARNING",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 60.76,
+      "latency_ms": 45,
+      "bytes_sent": 59219
+    }
+  },
+  {
+    "log_id": "LOG-10132",
+    "timestamp": "2026-10-17T10:50:32",
+    "device_id": "DEV-M2M-017",
+    "ip_address": "192.168.1.100",
+    "level": "SUCCESS",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 66.86,
+      "latency_ms": 92,
+      "bytes_sent": 11572
+    }
+  },
+  {
+    "log_id": "LOG-10133",
+    "timestamp": "2026-10-15T11:49:15",
+    "device_id": "DEV-M2M-002",
+    "ip_address": "192.168.1.103",
+    "level": "INFO",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 38.18,
+      "latency_ms": 195,
+      "bytes_sent": 56180
+    }
+  },
+  {
+    "log_id": "LOG-10134",
+    "timestamp": "2026-10-15T10:31:13",
+    "device_id": "DEV-M2M-004",
+    "ip_address": "192.168.1.46",
+    "level": "ERROR",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 88.74,
+      "latency_ms": 122,
+      "bytes_sent": 33671
+    }
+  },
+  {
+    "log_id": "LOG-10135",
+    "timestamp": "2026-10-16T04:41:26",
+    "device_id": "DEV-M2M-014",
+    "ip_address": "192.168.1.120",
+    "level": "INFO",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 93.41,
+      "latency_ms": 18,
+      "bytes_sent": 56185
+    }
+  },
+  {
+    "log_id": "LOG-10136",
+    "timestamp": "2026-10-17T08:47:23",
+    "device_id": "DEV-M2M-012",
+    "ip_address": "192.168.1.201",
+    "level": "SUCCESS",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 54.86,
+      "latency_ms": 299,
+      "bytes_sent": 40293
+    }
+  },
+  {
+    "log_id": "LOG-10137",
+    "timestamp": "2026-10-19T02:15:03",
+    "device_id": "DEV-M2M-015",
+    "ip_address": "192.168.1.62",
+    "level": "SUCCESS",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 75.09,
+      "latency_ms": 60,
+      "bytes_sent": 6331
+    }
+  },
+  {
+    "log_id": "LOG-10138",
+    "timestamp": "2026-10-20T20:55:01",
+    "device_id": "DEV-M2M-006",
+    "ip_address": "192.168.1.124",
+    "level": "ERROR",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 22.57,
+      "latency_ms": 176,
+      "bytes_sent": 6997
+    }
+  },
+  {
+    "log_id": "LOG-10139",
+    "timestamp": "2026-10-19T08:12:51",
+    "device_id": "DEV-M2M-013",
+    "ip_address": "192.168.1.80",
+    "level": "INFO",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 7.82,
+      "latency_ms": 57,
+      "bytes_sent": 48834
+    }
+  },
+  {
+    "log_id": "LOG-10140",
+    "timestamp": "2026-10-15T13:40:30",
+    "device_id": "DEV-M2M-014",
+    "ip_address": "192.168.1.220",
+    "level": "SUCCESS",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 26.38,
+      "latency_ms": 371,
+      "bytes_sent": 54539
+    }
+  },
+  {
+    "log_id": "LOG-10141",
+    "timestamp": "2026-10-15T08:38:54",
+    "device_id": "DEV-M2M-012",
+    "ip_address": "192.168.1.215",
+    "level": "WARNING",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 62.16,
+      "latency_ms": 60,
+      "bytes_sent": 7049
+    }
+  },
+  {
+    "log_id": "LOG-10142",
+    "timestamp": "2026-10-17T23:42:51",
+    "device_id": "DEV-M2M-018",
+    "ip_address": "192.168.1.192",
+    "level": "ERROR",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 21.97,
+      "latency_ms": 133,
+      "bytes_sent": 50365
+    }
+  },
+  {
+    "log_id": "LOG-10143",
+    "timestamp": "2026-10-14T08:47:37",
+    "device_id": "DEV-M2M-017",
+    "ip_address": "192.168.1.190",
+    "level": "INFO",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 72.54,
+      "latency_ms": 396,
+      "bytes_sent": 28297
+    }
+  },
+  {
+    "log_id": "LOG-10144",
+    "timestamp": "2026-10-14T01:37:42",
+    "device_id": "DEV-M2M-018",
+    "ip_address": "192.168.1.172",
+    "level": "WARNING",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 32.1,
+      "latency_ms": 387,
+      "bytes_sent": 7170
+    }
+  },
+  {
+    "log_id": "LOG-10145",
+    "timestamp": "2026-10-16T17:18:55",
+    "device_id": "DEV-M2M-004",
+    "ip_address": "192.168.1.166",
+    "level": "SUCCESS",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 6.11,
+      "latency_ms": 143,
+      "bytes_sent": 60555
+    }
+  },
+  {
+    "log_id": "LOG-10146",
+    "timestamp": "2026-10-16T22:11:47",
+    "device_id": "DEV-M2M-005",
+    "ip_address": "192.168.1.60",
+    "level": "INFO",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 75.26,
+      "latency_ms": 17,
+      "bytes_sent": 33220
+    }
+  },
+  {
+    "log_id": "LOG-10147",
+    "timestamp": "2026-10-18T14:25:10",
+    "device_id": "DEV-M2M-018",
+    "ip_address": "192.168.1.38",
+    "level": "ERROR",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 64.86,
+      "latency_ms": 346,
+      "bytes_sent": 63665
+    }
+  },
+  {
+    "log_id": "LOG-10148",
+    "timestamp": "2026-10-14T23:23:32",
+    "device_id": "DEV-M2M-016",
+    "ip_address": "192.168.1.95",
+    "level": "ERROR",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 29.93,
+      "latency_ms": 314,
+      "bytes_sent": 26167
+    }
+  },
+  {
+    "log_id": "LOG-10149",
+    "timestamp": "2026-10-20T02:27:31",
+    "device_id": "DEV-M2M-010",
+    "ip_address": "192.168.1.98",
+    "level": "SUCCESS",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 46.18,
+      "latency_ms": 450,
+      "bytes_sent": 5605
+    }
+  },
+  {
+    "log_id": "LOG-10150",
+    "timestamp": "2026-10-19T04:39:42",
+    "device_id": "DEV-M2M-005",
+    "ip_address": "192.168.1.71",
+    "level": "INFO",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 32.61,
+      "latency_ms": 285,
+      "bytes_sent": 39954
+    }
+  },
+  {
+    "log_id": "LOG-10151",
+    "timestamp": "2026-10-16T15:59:06",
+    "device_id": "DEV-M2M-012",
+    "ip_address": "192.168.1.218",
+    "level": "WARNING",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 56.35,
+      "latency_ms": 67,
+      "bytes_sent": 20846
+    }
+  },
+  {
+    "log_id": "LOG-10152",
+    "timestamp": "2026-10-17T21:23:51",
+    "device_id": "DEV-M2M-017",
+    "ip_address": "192.168.1.229",
+    "level": "INFO",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 67.67,
+      "latency_ms": 330,
+      "bytes_sent": 60094
+    }
+  },
+  {
+    "log_id": "LOG-10153",
+    "timestamp": "2026-10-20T15:42:59",
+    "device_id": "DEV-M2M-014",
+    "ip_address": "192.168.1.179",
+    "level": "WARNING",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 35.18,
+      "latency_ms": 165,
+      "bytes_sent": 45554
+    }
+  },
+  {
+    "log_id": "LOG-10154",
+    "timestamp": "2026-10-17T16:26:45",
+    "device_id": "DEV-M2M-015",
+    "ip_address": "192.168.1.183",
+    "level": "WARNING",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 35.04,
+      "latency_ms": 287,
+      "bytes_sent": 25926
+    }
+  },
+  {
+    "log_id": "LOG-10155",
+    "timestamp": "2026-10-17T12:13:38",
+    "device_id": "DEV-M2M-018",
+    "ip_address": "192.168.1.166",
+    "level": "ERROR",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 48.62,
+      "latency_ms": 256,
+      "bytes_sent": 7411
+    }
+  },
+  {
+    "log_id": "LOG-10156",
+    "timestamp": "2026-10-14T23:41:59",
+    "device_id": "DEV-M2M-017",
+    "ip_address": "192.168.1.28",
+    "level": "INFO",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 39.19,
+      "latency_ms": 137,
+      "bytes_sent": 24406
+    }
+  },
+  {
+    "log_id": "LOG-10157",
+    "timestamp": "2026-10-14T03:26:24",
+    "device_id": "DEV-M2M-006",
+    "ip_address": "192.168.1.49",
+    "level": "INFO",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 60.13,
+      "latency_ms": 236,
+      "bytes_sent": 62105
+    }
+  },
+  {
+    "log_id": "LOG-10158",
+    "timestamp": "2026-10-16T09:29:14",
+    "device_id": "DEV-M2M-004",
+    "ip_address": "192.168.1.186",
+    "level": "INFO",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 36.34,
+      "latency_ms": 72,
+      "bytes_sent": 57291
+    }
+  },
+  {
+    "log_id": "LOG-10159",
+    "timestamp": "2026-10-16T19:44:27",
+    "device_id": "DEV-M2M-008",
+    "ip_address": "192.168.1.223",
+    "level": "ERROR",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 72.27,
+      "latency_ms": 427,
+      "bytes_sent": 26823
+    }
+  },
+  {
+    "log_id": "LOG-10160",
+    "timestamp": "2026-10-14T17:18:59",
+    "device_id": "DEV-M2M-002",
+    "ip_address": "192.168.1.45",
+    "level": "ERROR",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 36.66,
+      "latency_ms": 35,
+      "bytes_sent": 57271
+    }
+  },
+  {
+    "log_id": "LOG-10161",
+    "timestamp": "2026-10-19T14:36:13",
+    "device_id": "DEV-M2M-006",
+    "ip_address": "192.168.1.219",
+    "level": "SUCCESS",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 71.45,
+      "latency_ms": 267,
+      "bytes_sent": 61500
+    }
+  },
+  {
+    "log_id": "LOG-10162",
+    "timestamp": "2026-10-20T12:11:03",
+    "device_id": "DEV-M2M-009",
+    "ip_address": "192.168.1.141",
+    "level": "SUCCESS",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 52.94,
+      "latency_ms": 366,
+      "bytes_sent": 22053
+    }
+  },
+  {
+    "log_id": "LOG-10163",
+    "timestamp": "2026-10-15T16:29:47",
+    "device_id": "DEV-M2M-001",
+    "ip_address": "192.168.1.215",
+    "level": "INFO",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 46.33,
+      "latency_ms": 448,
+      "bytes_sent": 18693
+    }
+  },
+  {
+    "log_id": "LOG-10164",
+    "timestamp": "2026-10-19T23:19:18",
+    "device_id": "DEV-M2M-017",
+    "ip_address": "192.168.1.195",
+    "level": "SUCCESS",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 37.58,
+      "latency_ms": 192,
+      "bytes_sent": 49397
+    }
+  },
+  {
+    "log_id": "LOG-10165",
+    "timestamp": "2026-10-17T04:30:28",
+    "device_id": "DEV-M2M-016",
+    "ip_address": "192.168.1.213",
+    "level": "WARNING",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 40.0,
+      "latency_ms": 130,
+      "bytes_sent": 45495
+    }
+  },
+  {
+    "log_id": "LOG-10166",
+    "timestamp": "2026-10-18T18:57:16",
+    "device_id": "DEV-M2M-016",
+    "ip_address": "192.168.1.19",
+    "level": "SUCCESS",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 88.09,
+      "latency_ms": 175,
+      "bytes_sent": 34854
+    }
+  },
+  {
+    "log_id": "LOG-10167",
+    "timestamp": "2026-10-19T03:58:14",
+    "device_id": "DEV-M2M-004",
+    "ip_address": "192.168.1.104",
+    "level": "INFO",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 94.11,
+      "latency_ms": 95,
+      "bytes_sent": 1810
+    }
+  },
+  {
+    "log_id": "LOG-10168",
+    "timestamp": "2026-10-20T17:49:40",
+    "device_id": "DEV-M2M-009",
+    "ip_address": "192.168.1.188",
+    "level": "SUCCESS",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 90.12,
+      "latency_ms": 55,
+      "bytes_sent": 49192
+    }
+  },
+  {
+    "log_id": "LOG-10169",
+    "timestamp": "2026-10-17T04:54:34",
+    "device_id": "DEV-M2M-005",
+    "ip_address": "192.168.1.39",
+    "level": "WARNING",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 27.13,
+      "latency_ms": 111,
+      "bytes_sent": 41920
+    }
+  },
+  {
+    "log_id": "LOG-10170",
+    "timestamp": "2026-10-19T22:13:35",
+    "device_id": "DEV-M2M-018",
+    "ip_address": "192.168.1.26",
+    "level": "ERROR",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 38.91,
+      "latency_ms": 268,
+      "bytes_sent": 34206
+    }
+  },
+  {
+    "log_id": "LOG-10171",
+    "timestamp": "2026-10-19T21:34:15",
+    "device_id": "DEV-M2M-011",
+    "ip_address": "192.168.1.31",
+    "level": "SUCCESS",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 11.66,
+      "latency_ms": 152,
+      "bytes_sent": 44509
+    }
+  },
+  {
+    "log_id": "LOG-10172",
+    "timestamp": "2026-10-18T04:03:16",
+    "device_id": "DEV-M2M-006",
+    "ip_address": "192.168.1.237",
+    "level": "WARNING",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 42.33,
+      "latency_ms": 35,
+      "bytes_sent": 39456
+    }
+  },
+  {
+    "log_id": "LOG-10173",
+    "timestamp": "2026-10-19T08:38:21",
+    "device_id": "DEV-M2M-006",
+    "ip_address": "192.168.1.59",
+    "level": "INFO",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 48.08,
+      "latency_ms": 247,
+      "bytes_sent": 64436
+    }
+  },
+  {
+    "log_id": "LOG-10174",
+    "timestamp": "2026-10-17T06:58:47",
+    "device_id": "DEV-M2M-002",
+    "ip_address": "192.168.1.222",
+    "level": "WARNING",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 44.03,
+      "latency_ms": 17,
+      "bytes_sent": 29372
+    }
+  },
+  {
+    "log_id": "LOG-10175",
+    "timestamp": "2026-10-20T04:24:41",
+    "device_id": "DEV-M2M-003",
+    "ip_address": "192.168.1.100",
+    "level": "INFO",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 39.78,
+      "latency_ms": 293,
+      "bytes_sent": 10086
+    }
+  },
+  {
+    "log_id": "LOG-10176",
+    "timestamp": "2026-10-15T20:29:46",
+    "device_id": "DEV-M2M-017",
+    "ip_address": "192.168.1.142",
+    "level": "SUCCESS",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 60.88,
+      "latency_ms": 155,
+      "bytes_sent": 22168
+    }
+  },
+  {
+    "log_id": "LOG-10177",
+    "timestamp": "2026-10-19T16:53:06",
+    "device_id": "DEV-M2M-012",
+    "ip_address": "192.168.1.148",
+    "level": "INFO",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 70.75,
+      "latency_ms": 36,
+      "bytes_sent": 28310
+    }
+  },
+  {
+    "log_id": "LOG-10178",
+    "timestamp": "2026-10-17T17:01:33",
+    "device_id": "DEV-M2M-005",
+    "ip_address": "192.168.1.67",
+    "level": "ERROR",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 74.13,
+      "latency_ms": 356,
+      "bytes_sent": 40371
+    }
+  },
+  {
+    "log_id": "LOG-10179",
+    "timestamp": "2026-10-15T03:14:44",
+    "device_id": "DEV-M2M-011",
+    "ip_address": "192.168.1.19",
+    "level": "SUCCESS",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 67.1,
+      "latency_ms": 94,
+      "bytes_sent": 60023
+    }
+  },
+  {
+    "log_id": "LOG-10180",
+    "timestamp": "2026-10-17T10:34:17",
+    "device_id": "DEV-M2M-004",
+    "ip_address": "192.168.1.33",
+    "level": "SUCCESS",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 39.82,
+      "latency_ms": 398,
+      "bytes_sent": 2432
+    }
+  },
+  {
+    "log_id": "LOG-10181",
+    "timestamp": "2026-10-20T13:33:58",
+    "device_id": "DEV-M2M-005",
+    "ip_address": "192.168.1.173",
+    "level": "SUCCESS",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 76.89,
+      "latency_ms": 216,
+      "bytes_sent": 1803
+    }
+  },
+  {
+    "log_id": "LOG-10182",
+    "timestamp": "2026-10-20T10:50:47",
+    "device_id": "DEV-M2M-009",
+    "ip_address": "192.168.1.130",
+    "level": "WARNING",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 30.99,
+      "latency_ms": 447,
+      "bytes_sent": 61565
+    }
+  },
+  {
+    "log_id": "LOG-10183",
+    "timestamp": "2026-10-16T16:42:07",
+    "device_id": "DEV-M2M-016",
+    "ip_address": "192.168.1.78",
+    "level": "INFO",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 29.56,
+      "latency_ms": 107,
+      "bytes_sent": 13118
+    }
+  },
+  {
+    "log_id": "LOG-10184",
+    "timestamp": "2026-10-18T22:33:36",
+    "device_id": "DEV-M2M-003",
+    "ip_address": "192.168.1.151",
+    "level": "INFO",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 79.12,
+      "latency_ms": 120,
+      "bytes_sent": 17818
+    }
+  },
+  {
+    "log_id": "LOG-10185",
+    "timestamp": "2026-10-15T01:43:40",
+    "device_id": "DEV-M2M-018",
+    "ip_address": "192.168.1.202",
+    "level": "WARNING",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 89.47,
+      "latency_ms": 324,
+      "bytes_sent": 33046
+    }
+  },
+  {
+    "log_id": "LOG-10186",
+    "timestamp": "2026-10-14T14:32:33",
+    "device_id": "DEV-M2M-006",
+    "ip_address": "192.168.1.183",
+    "level": "INFO",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 63.37,
+      "latency_ms": 367,
+      "bytes_sent": 57002
+    }
+  },
+  {
+    "log_id": "LOG-10187",
+    "timestamp": "2026-10-18T15:20:15",
+    "device_id": "DEV-M2M-009",
+    "ip_address": "192.168.1.17",
+    "level": "SUCCESS",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 97.3,
+      "latency_ms": 446,
+      "bytes_sent": 51819
+    }
+  },
+  {
+    "log_id": "LOG-10188",
+    "timestamp": "2026-10-16T19:44:31",
+    "device_id": "DEV-M2M-004",
+    "ip_address": "192.168.1.208",
+    "level": "ERROR",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 36.05,
+      "latency_ms": 154,
+      "bytes_sent": 16236
+    }
+  },
+  {
+    "log_id": "LOG-10189",
+    "timestamp": "2026-10-18T03:57:14",
+    "device_id": "DEV-M2M-015",
+    "ip_address": "192.168.1.120",
+    "level": "SUCCESS",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 73.71,
+      "latency_ms": 186,
+      "bytes_sent": 62661
+    }
+  },
+  {
+    "log_id": "LOG-10190",
+    "timestamp": "2026-10-14T10:58:35",
+    "device_id": "DEV-M2M-016",
+    "ip_address": "192.168.1.150",
+    "level": "WARNING",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 77.76,
+      "latency_ms": 68,
+      "bytes_sent": 65309
+    }
+  },
+  {
+    "log_id": "LOG-10191",
+    "timestamp": "2026-10-19T14:48:34",
+    "device_id": "DEV-M2M-011",
+    "ip_address": "192.168.1.237",
+    "level": "INFO",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 62.96,
+      "latency_ms": 129,
+      "bytes_sent": 60330
+    }
+  },
+  {
+    "log_id": "LOG-10192",
+    "timestamp": "2026-10-17T00:32:33",
+    "device_id": "DEV-M2M-014",
+    "ip_address": "192.168.1.80",
+    "level": "WARNING",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 13.51,
+      "latency_ms": 205,
+      "bytes_sent": 20867
+    }
+  },
+  {
+    "log_id": "LOG-10193",
+    "timestamp": "2026-10-17T21:37:12",
+    "device_id": "DEV-M2M-004",
+    "ip_address": "192.168.1.111",
+    "level": "ERROR",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 80.38,
+      "latency_ms": 132,
+      "bytes_sent": 44983
+    }
+  },
+  {
+    "log_id": "LOG-10194",
+    "timestamp": "2026-10-15T09:24:25",
+    "device_id": "DEV-M2M-008",
+    "ip_address": "192.168.1.90",
+    "level": "WARNING",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 13.72,
+      "latency_ms": 365,
+      "bytes_sent": 46751
+    }
+  },
+  {
+    "log_id": "LOG-10195",
+    "timestamp": "2026-10-19T23:44:10",
+    "device_id": "DEV-M2M-009",
+    "ip_address": "192.168.1.92",
+    "level": "WARNING",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 54.91,
+      "latency_ms": 160,
+      "bytes_sent": 15003
+    }
+  },
+  {
+    "log_id": "LOG-10196",
+    "timestamp": "2026-10-17T12:18:15",
+    "device_id": "DEV-M2M-001",
+    "ip_address": "192.168.1.87",
+    "level": "WARNING",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 94.52,
+      "latency_ms": 62,
+      "bytes_sent": 41787
+    }
+  },
+  {
+    "log_id": "LOG-10197",
+    "timestamp": "2026-10-20T02:33:25",
+    "device_id": "DEV-M2M-006",
+    "ip_address": "192.168.1.186",
+    "level": "ERROR",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 30.88,
+      "latency_ms": 307,
+      "bytes_sent": 39714
+    }
+  },
+  {
+    "log_id": "LOG-10198",
+    "timestamp": "2026-10-20T21:07:13",
+    "device_id": "DEV-M2M-011",
+    "ip_address": "192.168.1.230",
+    "level": "INFO",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 75.55,
+      "latency_ms": 442,
+      "bytes_sent": 4990
+    }
+  },
+  {
+    "log_id": "LOG-10199",
+    "timestamp": "2026-10-16T16:46:37",
+    "device_id": "DEV-M2M-020",
+    "ip_address": "192.168.1.159",
+    "level": "WARNING",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 65.46,
+      "latency_ms": 28,
+      "bytes_sent": 56836
+    }
+  },
+  {
+    "log_id": "LOG-10200",
+    "timestamp": "2026-10-19T20:22:23",
+    "device_id": "DEV-M2M-017",
+    "ip_address": "192.168.1.156",
+    "level": "ERROR",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 14.01,
+      "latency_ms": 227,
+      "bytes_sent": 53386
+    }
+  },
+  {
+    "log_id": "LOG-10201",
+    "timestamp": "2026-10-16T03:04:22",
+    "device_id": "DEV-M2M-014",
+    "ip_address": "192.168.1.185",
+    "level": "INFO",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 58.51,
+      "latency_ms": 106,
+      "bytes_sent": 948
+    }
+  },
+  {
+    "log_id": "LOG-10202",
+    "timestamp": "2026-10-17T16:07:43",
+    "device_id": "DEV-M2M-012",
+    "ip_address": "192.168.1.39",
+    "level": "SUCCESS",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 36.6,
+      "latency_ms": 312,
+      "bytes_sent": 55917
+    }
+  },
+  {
+    "log_id": "LOG-10203",
+    "timestamp": "2026-10-20T05:46:14",
+    "device_id": "DEV-M2M-020",
+    "ip_address": "192.168.1.121",
+    "level": "INFO",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 25.38,
+      "latency_ms": 250,
+      "bytes_sent": 12488
+    }
+  },
+  {
+    "log_id": "LOG-10204",
+    "timestamp": "2026-10-20T01:09:17",
+    "device_id": "DEV-M2M-012",
+    "ip_address": "192.168.1.121",
+    "level": "ERROR",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 16.22,
+      "latency_ms": 188,
+      "bytes_sent": 11657
+    }
+  },
+  {
+    "log_id": "LOG-10205",
+    "timestamp": "2026-10-18T18:50:39",
+    "device_id": "DEV-M2M-016",
+    "ip_address": "192.168.1.234",
+    "level": "WARNING",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 62.68,
+      "latency_ms": 239,
+      "bytes_sent": 56322
+    }
+  },
+  {
+    "log_id": "LOG-10206",
+    "timestamp": "2026-10-16T05:59:18",
+    "device_id": "DEV-M2M-009",
+    "ip_address": "192.168.1.85",
+    "level": "INFO",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 68.87,
+      "latency_ms": 298,
+      "bytes_sent": 63519
+    }
+  },
+  {
+    "log_id": "LOG-10207",
+    "timestamp": "2026-10-14T11:25:52",
+    "device_id": "DEV-M2M-013",
+    "ip_address": "192.168.1.159",
+    "level": "WARNING",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 21.3,
+      "latency_ms": 410,
+      "bytes_sent": 60876
+    }
+  },
+  {
+    "log_id": "LOG-10208",
+    "timestamp": "2026-10-16T21:02:43",
+    "device_id": "DEV-M2M-010",
+    "ip_address": "192.168.1.108",
+    "level": "INFO",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 44.06,
+      "latency_ms": 203,
+      "bytes_sent": 32317
+    }
+  },
+  {
+    "log_id": "LOG-10209",
+    "timestamp": "2026-10-16T20:02:53",
+    "device_id": "DEV-M2M-014",
+    "ip_address": "192.168.1.57",
+    "level": "ERROR",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 47.02,
+      "latency_ms": 62,
+      "bytes_sent": 26691
+    }
+  },
+  {
+    "log_id": "LOG-10210",
+    "timestamp": "2026-10-18T22:17:08",
+    "device_id": "DEV-M2M-019",
+    "ip_address": "192.168.1.160",
+    "level": "SUCCESS",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 7.15,
+      "latency_ms": 338,
+      "bytes_sent": 63627
+    }
+  },
+  {
+    "log_id": "LOG-10211",
+    "timestamp": "2026-10-16T23:45:20",
+    "device_id": "DEV-M2M-014",
+    "ip_address": "192.168.1.124",
+    "level": "WARNING",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 21.63,
+      "latency_ms": 329,
+      "bytes_sent": 11640
+    }
+  },
+  {
+    "log_id": "LOG-10212",
+    "timestamp": "2026-10-14T19:30:12",
+    "device_id": "DEV-M2M-003",
+    "ip_address": "192.168.1.169",
+    "level": "INFO",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 74.99,
+      "latency_ms": 166,
+      "bytes_sent": 27942
+    }
+  },
+  {
+    "log_id": "LOG-10213",
+    "timestamp": "2026-10-20T14:12:42",
+    "device_id": "DEV-M2M-013",
+    "ip_address": "192.168.1.44",
+    "level": "INFO",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 17.45,
+      "latency_ms": 201,
+      "bytes_sent": 48715
+    }
+  },
+  {
+    "log_id": "LOG-10214",
+    "timestamp": "2026-10-16T20:05:35",
+    "device_id": "DEV-M2M-014",
+    "ip_address": "192.168.1.13",
+    "level": "SUCCESS",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 27.73,
+      "latency_ms": 161,
+      "bytes_sent": 11837
+    }
+  },
+  {
+    "log_id": "LOG-10215",
+    "timestamp": "2026-10-19T14:38:38",
+    "device_id": "DEV-M2M-005",
+    "ip_address": "192.168.1.249",
+    "level": "SUCCESS",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 32.18,
+      "latency_ms": 37,
+      "bytes_sent": 15209
+    }
+  },
+  {
+    "log_id": "LOG-10216",
+    "timestamp": "2026-10-20T06:05:46",
+    "device_id": "DEV-M2M-016",
+    "ip_address": "192.168.1.174",
+    "level": "WARNING",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 55.81,
+      "latency_ms": 28,
+      "bytes_sent": 64450
+    }
+  },
+  {
+    "log_id": "LOG-10217",
+    "timestamp": "2026-10-20T21:23:30",
+    "device_id": "DEV-M2M-012",
+    "ip_address": "192.168.1.174",
+    "level": "WARNING",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 31.7,
+      "latency_ms": 131,
+      "bytes_sent": 34332
+    }
+  },
+  {
+    "log_id": "LOG-10218",
+    "timestamp": "2026-10-18T09:38:32",
+    "device_id": "DEV-M2M-003",
+    "ip_address": "192.168.1.133",
+    "level": "INFO",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 63.82,
+      "latency_ms": 307,
+      "bytes_sent": 60363
+    }
+  },
+  {
+    "log_id": "LOG-10219",
+    "timestamp": "2026-10-18T11:14:50",
+    "device_id": "DEV-M2M-012",
+    "ip_address": "192.168.1.213",
+    "level": "SUCCESS",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 32.24,
+      "latency_ms": 181,
+      "bytes_sent": 43070
+    }
+  },
+  {
+    "log_id": "LOG-10220",
+    "timestamp": "2026-10-16T10:35:08",
+    "device_id": "DEV-M2M-008",
+    "ip_address": "192.168.1.122",
+    "level": "WARNING",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 6.51,
+      "latency_ms": 340,
+      "bytes_sent": 17084
+    }
+  },
+  {
+    "log_id": "LOG-10221",
+    "timestamp": "2026-10-15T03:59:29",
+    "device_id": "DEV-M2M-012",
+    "ip_address": "192.168.1.120",
+    "level": "WARNING",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 46.34,
+      "latency_ms": 82,
+      "bytes_sent": 57913
+    }
+  },
+  {
+    "log_id": "LOG-10222",
+    "timestamp": "2026-10-18T12:25:42",
+    "device_id": "DEV-M2M-003",
+    "ip_address": "192.168.1.112",
+    "level": "ERROR",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 24.06,
+      "latency_ms": 135,
+      "bytes_sent": 2322
+    }
+  },
+  {
+    "log_id": "LOG-10223",
+    "timestamp": "2026-10-15T17:27:51",
+    "device_id": "DEV-M2M-003",
+    "ip_address": "192.168.1.113",
+    "level": "WARNING",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 46.86,
+      "latency_ms": 434,
+      "bytes_sent": 30663
+    }
+  },
+  {
+    "log_id": "LOG-10224",
+    "timestamp": "2026-10-17T07:48:30",
+    "device_id": "DEV-M2M-002",
+    "ip_address": "192.168.1.119",
+    "level": "INFO",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 86.64,
+      "latency_ms": 20,
+      "bytes_sent": 34139
+    }
+  },
+  {
+    "log_id": "LOG-10225",
+    "timestamp": "2026-10-19T17:21:35",
+    "device_id": "DEV-M2M-016",
+    "ip_address": "192.168.1.193",
+    "level": "ERROR",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 21.51,
+      "latency_ms": 367,
+      "bytes_sent": 36804
+    }
+  },
+  {
+    "log_id": "LOG-10226",
+    "timestamp": "2026-10-15T19:01:00",
+    "device_id": "DEV-M2M-003",
+    "ip_address": "192.168.1.61",
+    "level": "INFO",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 76.64,
+      "latency_ms": 90,
+      "bytes_sent": 35897
+    }
+  },
+  {
+    "log_id": "LOG-10227",
+    "timestamp": "2026-10-15T05:34:31",
+    "device_id": "DEV-M2M-016",
+    "ip_address": "192.168.1.122",
+    "level": "INFO",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 33.23,
+      "latency_ms": 246,
+      "bytes_sent": 15640
+    }
+  },
+  {
+    "log_id": "LOG-10228",
+    "timestamp": "2026-10-15T02:51:05",
+    "device_id": "DEV-M2M-005",
+    "ip_address": "192.168.1.223",
+    "level": "WARNING",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 88.97,
+      "latency_ms": 235,
+      "bytes_sent": 22823
+    }
+  },
+  {
+    "log_id": "LOG-10229",
+    "timestamp": "2026-10-15T19:41:48",
+    "device_id": "DEV-M2M-014",
+    "ip_address": "192.168.1.92",
+    "level": "WARNING",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 72.68,
+      "latency_ms": 225,
+      "bytes_sent": 35874
+    }
+  },
+  {
+    "log_id": "LOG-10230",
+    "timestamp": "2026-10-19T18:47:49",
+    "device_id": "DEV-M2M-013",
+    "ip_address": "192.168.1.101",
+    "level": "SUCCESS",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 6.06,
+      "latency_ms": 118,
+      "bytes_sent": 11632
+    }
+  },
+  {
+    "log_id": "LOG-10231",
+    "timestamp": "2026-10-16T17:39:04",
+    "device_id": "DEV-M2M-017",
+    "ip_address": "192.168.1.135",
+    "level": "WARNING",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 38.53,
+      "latency_ms": 410,
+      "bytes_sent": 8271
+    }
+  },
+  {
+    "log_id": "LOG-10232",
+    "timestamp": "2026-10-13T23:22:46",
+    "device_id": "DEV-M2M-002",
+    "ip_address": "192.168.1.123",
+    "level": "SUCCESS",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 95.48,
+      "latency_ms": 298,
+      "bytes_sent": 52712
+    }
+  },
+  {
+    "log_id": "LOG-10233",
+    "timestamp": "2026-10-15T18:31:38",
+    "device_id": "DEV-M2M-004",
+    "ip_address": "192.168.1.44",
+    "level": "INFO",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 63.77,
+      "latency_ms": 290,
+      "bytes_sent": 28188
+    }
+  },
+  {
+    "log_id": "LOG-10234",
+    "timestamp": "2026-10-18T18:55:55",
+    "device_id": "DEV-M2M-001",
+    "ip_address": "192.168.1.149",
+    "level": "SUCCESS",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 10.18,
+      "latency_ms": 423,
+      "bytes_sent": 61924
+    }
+  },
+  {
+    "log_id": "LOG-10235",
+    "timestamp": "2026-10-15T11:35:13",
+    "device_id": "DEV-M2M-014",
+    "ip_address": "192.168.1.78",
+    "level": "SUCCESS",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 33.07,
+      "latency_ms": 28,
+      "bytes_sent": 10495
+    }
+  },
+  {
+    "log_id": "LOG-10236",
+    "timestamp": "2026-10-19T05:46:33",
+    "device_id": "DEV-M2M-014",
+    "ip_address": "192.168.1.228",
+    "level": "SUCCESS",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 80.63,
+      "latency_ms": 323,
+      "bytes_sent": 42511
+    }
+  },
+  {
+    "log_id": "LOG-10237",
+    "timestamp": "2026-10-19T21:54:02",
+    "device_id": "DEV-M2M-014",
+    "ip_address": "192.168.1.182",
+    "level": "SUCCESS",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 23.56,
+      "latency_ms": 266,
+      "bytes_sent": 9354
+    }
+  },
+  {
+    "log_id": "LOG-10238",
+    "timestamp": "2026-10-14T07:05:14",
+    "device_id": "DEV-M2M-009",
+    "ip_address": "192.168.1.164",
+    "level": "INFO",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 95.1,
+      "latency_ms": 97,
+      "bytes_sent": 6278
+    }
+  },
+  {
+    "log_id": "LOG-10239",
+    "timestamp": "2026-10-16T05:56:45",
+    "device_id": "DEV-M2M-012",
+    "ip_address": "192.168.1.84",
+    "level": "ERROR",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 24.17,
+      "latency_ms": 373,
+      "bytes_sent": 47099
+    }
+  },
+  {
+    "log_id": "LOG-10240",
+    "timestamp": "2026-10-17T02:59:04",
+    "device_id": "DEV-M2M-001",
+    "ip_address": "192.168.1.187",
+    "level": "INFO",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 77.2,
+      "latency_ms": 409,
+      "bytes_sent": 8300
+    }
+  },
+  {
+    "log_id": "LOG-10241",
+    "timestamp": "2026-10-18T13:36:46",
+    "device_id": "DEV-M2M-020",
+    "ip_address": "192.168.1.106",
+    "level": "WARNING",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 36.99,
+      "latency_ms": 375,
+      "bytes_sent": 44638
+    }
+  },
+  {
+    "log_id": "LOG-10242",
+    "timestamp": "2026-10-14T20:58:01",
+    "device_id": "DEV-M2M-010",
+    "ip_address": "192.168.1.46",
+    "level": "INFO",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 60.24,
+      "latency_ms": 112,
+      "bytes_sent": 14991
+    }
+  },
+  {
+    "log_id": "LOG-10243",
+    "timestamp": "2026-10-17T01:40:15",
+    "device_id": "DEV-M2M-020",
+    "ip_address": "192.168.1.177",
+    "level": "INFO",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 67.28,
+      "latency_ms": 137,
+      "bytes_sent": 63139
+    }
+  },
+  {
+    "log_id": "LOG-10244",
+    "timestamp": "2026-10-14T22:42:01",
+    "device_id": "DEV-M2M-008",
+    "ip_address": "192.168.1.180",
+    "level": "INFO",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 49.09,
+      "latency_ms": 78,
+      "bytes_sent": 14137
+    }
+  },
+  {
+    "log_id": "LOG-10245",
+    "timestamp": "2026-10-18T12:15:23",
+    "device_id": "DEV-M2M-014",
+    "ip_address": "192.168.1.229",
+    "level": "WARNING",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 24.68,
+      "latency_ms": 19,
+      "bytes_sent": 29178
+    }
+  },
+  {
+    "log_id": "LOG-10246",
+    "timestamp": "2026-10-18T04:45:33",
+    "device_id": "DEV-M2M-005",
+    "ip_address": "192.168.1.30",
+    "level": "SUCCESS",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 47.56,
+      "latency_ms": 121,
+      "bytes_sent": 22683
+    }
+  },
+  {
+    "log_id": "LOG-10247",
+    "timestamp": "2026-10-18T08:06:12",
+    "device_id": "DEV-M2M-018",
+    "ip_address": "192.168.1.189",
+    "level": "WARNING",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 12.75,
+      "latency_ms": 228,
+      "bytes_sent": 22185
+    }
+  },
+  {
+    "log_id": "LOG-10248",
+    "timestamp": "2026-10-15T18:43:12",
+    "device_id": "DEV-M2M-011",
+    "ip_address": "192.168.1.223",
+    "level": "WARNING",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 85.45,
+      "latency_ms": 15,
+      "bytes_sent": 15520
+    }
+  },
+  {
+    "log_id": "LOG-10249",
+    "timestamp": "2026-10-16T12:09:01",
+    "device_id": "DEV-M2M-018",
+    "ip_address": "192.168.1.209",
+    "level": "WARNING",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 58.04,
+      "latency_ms": 350,
+      "bytes_sent": 13617
+    }
+  },
+  {
+    "log_id": "LOG-10250",
+    "timestamp": "2026-10-19T22:37:32",
+    "device_id": "DEV-M2M-002",
+    "ip_address": "192.168.1.190",
+    "level": "SUCCESS",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 58.25,
+      "latency_ms": 393,
+      "bytes_sent": 16391
+    }
+  },
+  {
+    "log_id": "LOG-10251",
+    "timestamp": "2026-10-15T12:23:55",
+    "device_id": "DEV-M2M-008",
+    "ip_address": "192.168.1.23",
+    "level": "ERROR",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 20.56,
+      "latency_ms": 64,
+      "bytes_sent": 42729
+    }
+  },
+  {
+    "log_id": "LOG-10252",
+    "timestamp": "2026-10-17T21:22:08",
+    "device_id": "DEV-M2M-016",
+    "ip_address": "192.168.1.205",
+    "level": "ERROR",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 76.17,
+      "latency_ms": 391,
+      "bytes_sent": 23849
+    }
+  },
+  {
+    "log_id": "LOG-10253",
+    "timestamp": "2026-10-14T06:06:52",
+    "device_id": "DEV-M2M-013",
+    "ip_address": "192.168.1.113",
+    "level": "SUCCESS",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 45.9,
+      "latency_ms": 31,
+      "bytes_sent": 39025
+    }
+  },
+  {
+    "log_id": "LOG-10254",
+    "timestamp": "2026-10-14T22:06:27",
+    "device_id": "DEV-M2M-013",
+    "ip_address": "192.168.1.172",
+    "level": "SUCCESS",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 31.7,
+      "latency_ms": 339,
+      "bytes_sent": 20987
+    }
+  },
+  {
+    "log_id": "LOG-10255",
+    "timestamp": "2026-10-14T13:33:12",
+    "device_id": "DEV-M2M-001",
+    "ip_address": "192.168.1.121",
+    "level": "ERROR",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 5.65,
+      "latency_ms": 156,
+      "bytes_sent": 9565
+    }
+  },
+  {
+    "log_id": "LOG-10256",
+    "timestamp": "2026-10-16T10:44:58",
+    "device_id": "DEV-M2M-010",
+    "ip_address": "192.168.1.65",
+    "level": "WARNING",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 23.31,
+      "latency_ms": 200,
+      "bytes_sent": 3593
+    }
+  },
+  {
+    "log_id": "LOG-10257",
+    "timestamp": "2026-10-18T08:08:29",
+    "device_id": "DEV-M2M-016",
+    "ip_address": "192.168.1.45",
+    "level": "WARNING",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 80.6,
+      "latency_ms": 248,
+      "bytes_sent": 20585
+    }
+  },
+  {
+    "log_id": "LOG-10258",
+    "timestamp": "2026-10-17T15:44:05",
+    "device_id": "DEV-M2M-015",
+    "ip_address": "192.168.1.84",
+    "level": "INFO",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 57.27,
+      "latency_ms": 68,
+      "bytes_sent": 63890
+    }
+  },
+  {
+    "log_id": "LOG-10259",
+    "timestamp": "2026-10-16T03:23:28",
+    "device_id": "DEV-M2M-015",
+    "ip_address": "192.168.1.143",
+    "level": "SUCCESS",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 30.58,
+      "latency_ms": 305,
+      "bytes_sent": 59432
+    }
+  },
+  {
+    "log_id": "LOG-10260",
+    "timestamp": "2026-10-20T16:07:18",
+    "device_id": "DEV-M2M-002",
+    "ip_address": "192.168.1.82",
+    "level": "WARNING",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 95.29,
+      "latency_ms": 243,
+      "bytes_sent": 25722
+    }
+  },
+  {
+    "log_id": "LOG-10261",
+    "timestamp": "2026-10-19T03:01:03",
+    "device_id": "DEV-M2M-017",
+    "ip_address": "192.168.1.214",
+    "level": "WARNING",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 72.71,
+      "latency_ms": 438,
+      "bytes_sent": 39736
+    }
+  },
+  {
+    "log_id": "LOG-10262",
+    "timestamp": "2026-10-16T01:03:32",
+    "device_id": "DEV-M2M-018",
+    "ip_address": "192.168.1.213",
+    "level": "ERROR",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 90.89,
+      "latency_ms": 439,
+      "bytes_sent": 22041
+    }
+  },
+  {
+    "log_id": "LOG-10263",
+    "timestamp": "2026-10-17T15:28:21",
+    "device_id": "DEV-M2M-009",
+    "ip_address": "192.168.1.199",
+    "level": "WARNING",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 18.66,
+      "latency_ms": 375,
+      "bytes_sent": 61828
+    }
+  },
+  {
+    "log_id": "LOG-10264",
+    "timestamp": "2026-10-17T03:57:17",
+    "device_id": "DEV-M2M-016",
+    "ip_address": "192.168.1.198",
+    "level": "ERROR",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 97.41,
+      "latency_ms": 125,
+      "bytes_sent": 31280
+    }
+  },
+  {
+    "log_id": "LOG-10265",
+    "timestamp": "2026-10-19T05:51:02",
+    "device_id": "DEV-M2M-009",
+    "ip_address": "192.168.1.189",
+    "level": "INFO",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 48.65,
+      "latency_ms": 297,
+      "bytes_sent": 64122
+    }
+  },
+  {
+    "log_id": "LOG-10266",
+    "timestamp": "2026-10-14T01:14:10",
+    "device_id": "DEV-M2M-007",
+    "ip_address": "192.168.1.235",
+    "level": "WARNING",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 36.24,
+      "latency_ms": 129,
+      "bytes_sent": 16798
+    }
+  },
+  {
+    "log_id": "LOG-10267",
+    "timestamp": "2026-10-14T16:09:37",
+    "device_id": "DEV-M2M-003",
+    "ip_address": "192.168.1.165",
+    "level": "WARNING",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 27.25,
+      "latency_ms": 99,
+      "bytes_sent": 41785
+    }
+  },
+  {
+    "log_id": "LOG-10268",
+    "timestamp": "2026-10-18T14:17:17",
+    "device_id": "DEV-M2M-013",
+    "ip_address": "192.168.1.86",
+    "level": "SUCCESS",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 33.08,
+      "latency_ms": 227,
+      "bytes_sent": 40055
+    }
+  },
+  {
+    "log_id": "LOG-10269",
+    "timestamp": "2026-10-18T15:04:57",
+    "device_id": "DEV-M2M-003",
+    "ip_address": "192.168.1.111",
+    "level": "INFO",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 71.28,
+      "latency_ms": 251,
+      "bytes_sent": 2494
+    }
+  },
+  {
+    "log_id": "LOG-10270",
+    "timestamp": "2026-10-20T20:15:51",
+    "device_id": "DEV-M2M-015",
+    "ip_address": "192.168.1.79",
+    "level": "INFO",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 10.34,
+      "latency_ms": 128,
+      "bytes_sent": 15552
+    }
+  },
+  {
+    "log_id": "LOG-10271",
+    "timestamp": "2026-10-19T16:37:29",
+    "device_id": "DEV-M2M-014",
+    "ip_address": "192.168.1.172",
+    "level": "SUCCESS",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 67.75,
+      "latency_ms": 143,
+      "bytes_sent": 37679
+    }
+  },
+  {
+    "log_id": "LOG-10272",
+    "timestamp": "2026-10-16T01:35:29",
+    "device_id": "DEV-M2M-004",
+    "ip_address": "192.168.1.68",
+    "level": "ERROR",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 84.94,
+      "latency_ms": 193,
+      "bytes_sent": 22072
+    }
+  },
+  {
+    "log_id": "LOG-10273",
+    "timestamp": "2026-10-20T09:42:58",
+    "device_id": "DEV-M2M-012",
+    "ip_address": "192.168.1.157",
+    "level": "WARNING",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 49.7,
+      "latency_ms": 166,
+      "bytes_sent": 14702
+    }
+  },
+  {
+    "log_id": "LOG-10274",
+    "timestamp": "2026-10-19T20:43:45",
+    "device_id": "DEV-M2M-018",
+    "ip_address": "192.168.1.121",
+    "level": "ERROR",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 55.16,
+      "latency_ms": 375,
+      "bytes_sent": 5438
+    }
+  },
+  {
+    "log_id": "LOG-10275",
+    "timestamp": "2026-10-14T12:40:11",
+    "device_id": "DEV-M2M-003",
+    "ip_address": "192.168.1.38",
+    "level": "INFO",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 16.69,
+      "latency_ms": 222,
+      "bytes_sent": 64685
+    }
+  },
+  {
+    "log_id": "LOG-10276",
+    "timestamp": "2026-10-20T19:26:23",
+    "device_id": "DEV-M2M-015",
+    "ip_address": "192.168.1.183",
+    "level": "WARNING",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 75.1,
+      "latency_ms": 223,
+      "bytes_sent": 46514
+    }
+  },
+  {
+    "log_id": "LOG-10277",
+    "timestamp": "2026-10-15T21:56:36",
+    "device_id": "DEV-M2M-008",
+    "ip_address": "192.168.1.223",
+    "level": "ERROR",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 26.65,
+      "latency_ms": 369,
+      "bytes_sent": 7151
+    }
+  },
+  {
+    "log_id": "LOG-10278",
+    "timestamp": "2026-10-18T16:26:26",
+    "device_id": "DEV-M2M-017",
+    "ip_address": "192.168.1.116",
+    "level": "SUCCESS",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 64.54,
+      "latency_ms": 117,
+      "bytes_sent": 34933
+    }
+  },
+  {
+    "log_id": "LOG-10279",
+    "timestamp": "2026-10-14T01:16:36",
+    "device_id": "DEV-M2M-008",
+    "ip_address": "192.168.1.135",
+    "level": "SUCCESS",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 49.3,
+      "latency_ms": 198,
+      "bytes_sent": 41861
+    }
+  },
+  {
+    "log_id": "LOG-10280",
+    "timestamp": "2026-10-18T06:33:08",
+    "device_id": "DEV-M2M-018",
+    "ip_address": "192.168.1.121",
+    "level": "SUCCESS",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 76.54,
+      "latency_ms": 68,
+      "bytes_sent": 31245
+    }
+  },
+  {
+    "log_id": "LOG-10281",
+    "timestamp": "2026-10-19T03:28:17",
+    "device_id": "DEV-M2M-016",
+    "ip_address": "192.168.1.206",
+    "level": "SUCCESS",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 96.39,
+      "latency_ms": 93,
+      "bytes_sent": 40342
+    }
+  },
+  {
+    "log_id": "LOG-10282",
+    "timestamp": "2026-10-17T01:14:03",
+    "device_id": "DEV-M2M-010",
+    "ip_address": "192.168.1.145",
+    "level": "WARNING",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 18.61,
+      "latency_ms": 422,
+      "bytes_sent": 47356
+    }
+  },
+  {
+    "log_id": "LOG-10283",
+    "timestamp": "2026-10-14T06:58:32",
+    "device_id": "DEV-M2M-011",
+    "ip_address": "192.168.1.73",
+    "level": "WARNING",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 90.48,
+      "latency_ms": 75,
+      "bytes_sent": 21329
+    }
+  },
+  {
+    "log_id": "LOG-10284",
+    "timestamp": "2026-10-19T03:14:50",
+    "device_id": "DEV-M2M-002",
+    "ip_address": "192.168.1.149",
+    "level": "WARNING",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 29.25,
+      "latency_ms": 110,
+      "bytes_sent": 44429
+    }
+  },
+  {
+    "log_id": "LOG-10285",
+    "timestamp": "2026-10-14T05:36:46",
+    "device_id": "DEV-M2M-007",
+    "ip_address": "192.168.1.50",
+    "level": "SUCCESS",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 45.96,
+      "latency_ms": 26,
+      "bytes_sent": 1022
+    }
+  },
+  {
+    "log_id": "LOG-10286",
+    "timestamp": "2026-10-18T02:28:17",
+    "device_id": "DEV-M2M-013",
+    "ip_address": "192.168.1.218",
+    "level": "INFO",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 6.3,
+      "latency_ms": 286,
+      "bytes_sent": 50994
+    }
+  },
+  {
+    "log_id": "LOG-10287",
+    "timestamp": "2026-10-17T13:48:52",
+    "device_id": "DEV-M2M-009",
+    "ip_address": "192.168.1.214",
+    "level": "ERROR",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 30.0,
+      "latency_ms": 317,
+      "bytes_sent": 62245
+    }
+  },
+  {
+    "log_id": "LOG-10288",
+    "timestamp": "2026-10-19T11:50:04",
+    "device_id": "DEV-M2M-017",
+    "ip_address": "192.168.1.186",
+    "level": "ERROR",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 77.73,
+      "latency_ms": 364,
+      "bytes_sent": 54517
+    }
+  },
+  {
+    "log_id": "LOG-10289",
+    "timestamp": "2026-10-16T01:17:05",
+    "device_id": "DEV-M2M-019",
+    "ip_address": "192.168.1.215",
+    "level": "INFO",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 60.89,
+      "latency_ms": 216,
+      "bytes_sent": 64979
+    }
+  },
+  {
+    "log_id": "LOG-10290",
+    "timestamp": "2026-10-18T03:36:56",
+    "device_id": "DEV-M2M-010",
+    "ip_address": "192.168.1.213",
+    "level": "SUCCESS",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 60.14,
+      "latency_ms": 129,
+      "bytes_sent": 35130
+    }
+  },
+  {
+    "log_id": "LOG-10291",
+    "timestamp": "2026-10-16T19:53:45",
+    "device_id": "DEV-M2M-008",
+    "ip_address": "192.168.1.215",
+    "level": "INFO",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 65.46,
+      "latency_ms": 299,
+      "bytes_sent": 56174
+    }
+  },
+  {
+    "log_id": "LOG-10292",
+    "timestamp": "2026-10-17T10:40:11",
+    "device_id": "DEV-M2M-019",
+    "ip_address": "192.168.1.31",
+    "level": "INFO",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 74.0,
+      "latency_ms": 318,
+      "bytes_sent": 25341
+    }
+  },
+  {
+    "log_id": "LOG-10293",
+    "timestamp": "2026-10-15T15:47:10",
+    "device_id": "DEV-M2M-018",
+    "ip_address": "192.168.1.37",
+    "level": "ERROR",
+    "event": "SENSOR_READ",
+    "metrics": {
+      "cpu_usage_pct": 93.93,
+      "latency_ms": 206,
+      "bytes_sent": 54288
+    }
+  },
+  {
+    "log_id": "LOG-10294",
+    "timestamp": "2026-10-16T19:56:32",
+    "device_id": "DEV-M2M-011",
+    "ip_address": "192.168.1.114",
+    "level": "INFO",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 72.8,
+      "latency_ms": 378,
+      "bytes_sent": 20019
+    }
+  },
+  {
+    "log_id": "LOG-10295",
+    "timestamp": "2026-10-14T05:55:53",
+    "device_id": "DEV-M2M-017",
+    "ip_address": "192.168.1.159",
+    "level": "SUCCESS",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 47.23,
+      "latency_ms": 257,
+      "bytes_sent": 27437
+    }
+  },
+  {
+    "log_id": "LOG-10296",
+    "timestamp": "2026-10-16T20:39:06",
+    "device_id": "DEV-M2M-012",
+    "ip_address": "192.168.1.30",
+    "level": "INFO",
+    "event": "CONNECTION_FAILED",
+    "metrics": {
+      "cpu_usage_pct": 6.02,
+      "latency_ms": 269,
+      "bytes_sent": 42343
+    }
+  },
+  {
+    "log_id": "LOG-10297",
+    "timestamp": "2026-10-20T15:43:32",
+    "device_id": "DEV-M2M-017",
+    "ip_address": "192.168.1.36",
+    "level": "ERROR",
+    "event": "FIRMWARE_UPDATE",
+    "metrics": {
+      "cpu_usage_pct": 15.79,
+      "latency_ms": 102,
+      "bytes_sent": 58530
+    }
+  },
+  {
+    "log_id": "LOG-10298",
+    "timestamp": "2026-10-20T16:47:54",
+    "device_id": "DEV-M2M-020",
+    "ip_address": "192.168.1.33",
+    "level": "WARNING",
+    "event": "DATA_SYNC",
+    "metrics": {
+      "cpu_usage_pct": 51.35,
+      "latency_ms": 265,
+      "bytes_sent": 64353
+    }
+  },
+  {
+    "log_id": "LOG-10299",
+    "timestamp": "2026-10-20T18:48:37",
+    "device_id": "DEV-M2M-008",
+    "ip_address": "192.168.1.224",
+    "level": "INFO",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 84.14,
+      "latency_ms": 190,
+      "bytes_sent": 50512
+    }
+  },
+  {
+    "log_id": "LOG-10300",
+    "timestamp": "2026-10-19T17:56:07",
+    "device_id": "DEV-M2M-002",
+    "ip_address": "192.168.1.210",
+    "level": "INFO",
+    "event": "DEVICE_HEARTBEAT",
+    "metrics": {
+      "cpu_usage_pct": 92.61,
+      "latency_ms": 127,
+      "bytes_sent": 47470
+    }
+  }
+]

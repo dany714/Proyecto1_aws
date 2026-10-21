@@ -1,0 +1,501 @@
+id_transaccion,id_usuario,fecha,monto,metodo_pago,estado,ciudad
+TXN-100001,USR-1164,2026-09-25 23:51:22,72.76,Transferencia,Aprobada,Guadalajara
+TXN-100002,USR-1036,2026-09-25 14:12:22,1695.14,Tarjeta de Crédito,Pendiente,Puebla
+TXN-100003,USR-1009,2026-09-22 06:47:22,243.75,Tarjeta de Débito,Pendiente,Querétaro
+TXN-100004,USR-1007,2026-10-16 11:16:22,505.51,Efectivo,Aprobada,Puebla
+TXN-100005,USR-1151,2026-10-03 14:06:22,2025.58,Tarjeta de Crédito,Aprobada,Puebla
+TXN-100006,USR-1088,2026-10-03 13:45:22,397.57,Transferencia,Aprobada,CDMX
+TXN-100007,USR-1098,2026-09-25 07:53:22,904.18,Transferencia,Pendiente,Monterrey
+TXN-100008,USR-1012,2026-10-11 20:03:22,1345.44,Efectivo,Aprobada,Querétaro
+TXN-100009,USR-1076,2026-10-19 12:53:22,1550.3,Transferencia,Pendiente,Guadalajara
+TXN-100010,USR-1181,2026-09-24 02:13:22,124.58,Tarjeta de Débito,Aprobada,CDMX
+TXN-100011,USR-1060,2026-09-25 12:34:22,956.82,Efectivo,Aprobada,Guadalajara
+TXN-100012,USR-1095,2026-10-07 02:18:22,532.07,Transferencia,Aprobada,Querétaro
+TXN-100013,USR-1163,2026-09-28 17:10:22,1340.24,Tarjeta de Débito,Aprobada,Puebla
+TXN-100014,USR-1098,2026-10-03 05:06:22,2473.92,Tarjeta de Débito,Aprobada,CDMX
+TXN-100015,USR-1059,2026-09-22 09:18:22,2014.66,Efectivo,Aprobada,CDMX
+TXN-100016,USR-1055,2026-10-16 17:45:22,2192.22,Transferencia,Aprobada,Puebla
+TXN-100017,USR-1102,2026-10-20 04:24:22,1152.81,Transferencia,Aprobada,Guadalajara
+TXN-100018,USR-1191,2026-10-16 11:24:22,1352.28,Efectivo,Pendiente,Puebla
+TXN-100019,USR-1093,2026-09-30 21:48:22,2493.34,Tarjeta de Débito,Pendiente,Puebla
+TXN-100020,USR-1024,2026-09-23 01:42:22,2154.22,Tarjeta de Débito,Aprobada,Puebla
+TXN-100021,USR-1153,2026-09-23 19:38:22,968.38,Efectivo,Pendiente,Monterrey
+TXN-100022,USR-1142,2026-09-21 10:47:22,1704.07,Tarjeta de Crédito,Pendiente,Monterrey
+TXN-100023,USR-1197,2026-10-20 02:21:22,857.37,Transferencia,Rechazada,Guadalajara
+TXN-100024,USR-1117,2026-09-21 01:47:22,2385.02,Transferencia,Pendiente,Guadalajara
+TXN-100025,USR-1130,2026-09-25 18:28:22,2177.66,Transferencia,Pendiente,Querétaro
+TXN-100026,USR-1051,2026-09-27 21:11:22,941.36,Tarjeta de Débito,Pendiente,Querétaro
+TXN-100027,USR-1001,2026-10-18 04:27:22,817.49,Tarjeta de Crédito,Aprobada,Monterrey
+TXN-100028,USR-1079,2026-10-01 19:47:22,154.7,Tarjeta de Crédito,Aprobada,Puebla
+TXN-100029,USR-1018,2026-10-15 04:06:22,1917.04,Tarjeta de Débito,Rechazada,Querétaro
+TXN-100030,USR-1043,2026-10-02 23:45:22,1324.14,Efectivo,Aprobada,Querétaro
+TXN-100031,USR-1194,2026-09-30 01:57:22,1785.39,Efectivo,Aprobada,Puebla
+TXN-100032,USR-1133,2026-10-11 11:23:22,311.74,Tarjeta de Débito,Aprobada,Monterrey
+TXN-100033,USR-1006,2026-10-17 16:50:22,1389.49,Tarjeta de Débito,Aprobada,CDMX
+TXN-100034,USR-1182,2026-10-19 15:34:22,157.07,Tarjeta de Crédito,Aprobada,Monterrey
+TXN-100035,USR-1019,2026-10-14 07:50:22,603.01,Efectivo,Aprobada,Querétaro
+TXN-100036,USR-1034,2026-10-16 21:58:22,1444.98,Tarjeta de Débito,Rechazada,Puebla
+TXN-100037,USR-1049,2026-09-25 05:16:22,251.81,Efectivo,Aprobada,Puebla
+TXN-100038,USR-1106,2026-10-12 04:21:22,2161.02,Tarjeta de Crédito,Aprobada,CDMX
+TXN-100039,USR-1104,2026-10-06 08:51:22,2003.58,Tarjeta de Crédito,Aprobada,Guadalajara
+TXN-100040,USR-1049,2026-10-15 08:01:22,1127.32,Efectivo,Aprobada,Monterrey
+TXN-100041,USR-1119,2026-10-02 07:06:22,2187.53,Tarjeta de Crédito,Rechazada,Querétaro
+TXN-100042,USR-1026,2026-09-23 05:30:22,1634.01,Tarjeta de Crédito,Aprobada,Guadalajara
+TXN-100043,USR-1043,2026-10-09 10:09:22,1219.5,Tarjeta de Débito,Rechazada,CDMX
+TXN-100044,USR-1043,2026-10-08 04:11:22,15.87,Efectivo,Aprobada,Puebla
+TXN-100045,USR-1074,2026-10-10 04:17:22,1744.66,Efectivo,Aprobada,Guadalajara
+TXN-100046,USR-1076,2026-09-30 20:02:22,2422.1,Tarjeta de Crédito,Aprobada,CDMX
+TXN-100047,USR-1013,2026-10-17 12:19:22,1197.47,Tarjeta de Débito,Aprobada,Querétaro
+TXN-100048,USR-1021,2026-09-29 09:13:22,181.08,Tarjeta de Crédito,Aprobada,Puebla
+TXN-100049,USR-1031,2026-10-16 20:29:22,623.45,Tarjeta de Crédito,Pendiente,CDMX
+TXN-100050,USR-1108,2026-10-20 20:16:22,1463.55,Transferencia,Aprobada,Guadalajara
+TXN-100051,USR-1172,2026-10-05 05:25:22,604.71,Efectivo,Aprobada,Monterrey
+TXN-100052,USR-1118,2026-10-05 07:35:22,2323.29,Tarjeta de Crédito,Aprobada,Puebla
+TXN-100053,USR-1160,2026-10-16 13:11:22,2490.28,Tarjeta de Crédito,Pendiente,Guadalajara
+TXN-100054,USR-1130,2026-10-02 23:55:22,340.25,Transferencia,Aprobada,Guadalajara
+TXN-100055,USR-1095,2026-10-03 21:31:22,403.21,Transferencia,Pendiente,Querétaro
+TXN-100056,USR-1003,2026-10-16 04:01:22,755.8,Tarjeta de Crédito,Aprobada,Monterrey
+TXN-100057,USR-1030,2026-09-25 19:09:22,1858.75,Tarjeta de Débito,Aprobada,Monterrey
+TXN-100058,USR-1155,2026-09-30 12:18:22,1797.0,Tarjeta de Débito,Aprobada,Querétaro
+TXN-100059,USR-1126,2026-10-02 08:32:22,2264.34,Tarjeta de Crédito,Aprobada,Puebla
+TXN-100060,USR-1071,2026-09-22 22:24:22,19.33,Tarjeta de Débito,Aprobada,Guadalajara
+TXN-100061,USR-1190,2026-10-11 00:51:22,1383.91,Efectivo,Pendiente,CDMX
+TXN-100062,USR-1029,2026-09-24 08:26:22,2363.2,Tarjeta de Débito,Pendiente,CDMX
+TXN-100063,USR-1095,2026-10-17 10:30:22,1386.01,Efectivo,Aprobada,CDMX
+TXN-100064,USR-1079,2026-10-07 12:32:22,2248.51,Tarjeta de Crédito,Aprobada,Guadalajara
+TXN-100065,USR-1175,2026-10-02 06:48:22,1670.83,Transferencia,Pendiente,Puebla
+TXN-100066,USR-1159,2026-09-27 23:03:22,2315.19,Tarjeta de Débito,Aprobada,Guadalajara
+TXN-100067,USR-1106,2026-09-22 01:19:22,457.02,Transferencia,Rechazada,Guadalajara
+TXN-100068,USR-1069,2026-09-28 04:08:22,1970.67,Tarjeta de Crédito,Rechazada,CDMX
+TXN-100069,USR-1121,2026-10-01 01:12:22,507.34,Efectivo,Aprobada,Monterrey
+TXN-100070,USR-1059,2026-10-01 01:44:22,69.41,Tarjeta de Débito,Rechazada,Monterrey
+TXN-100071,USR-1072,2026-09-24 02:04:22,2417.57,Transferencia,Aprobada,Querétaro
+TXN-100072,USR-1103,2026-10-15 07:56:22,834.9,Tarjeta de Crédito,Aprobada,Monterrey
+TXN-100073,USR-1046,2026-10-17 08:24:22,2406.73,Transferencia,Aprobada,CDMX
+TXN-100074,USR-1153,2026-10-10 16:54:22,871.09,Transferencia,Rechazada,Querétaro
+TXN-100075,USR-1131,2026-09-26 04:33:22,969.44,Tarjeta de Débito,Aprobada,CDMX
+TXN-100076,USR-1182,2026-10-10 18:32:22,14.71,Tarjeta de Débito,Aprobada,Puebla
+TXN-100077,USR-1018,2026-10-05 22:54:22,1561.85,Tarjeta de Crédito,Aprobada,Querétaro
+TXN-100078,USR-1080,2026-10-09 12:19:22,822.53,Transferencia,Pendiente,Guadalajara
+TXN-100079,USR-1050,2026-10-10 01:29:22,1665.84,Efectivo,Aprobada,Querétaro
+TXN-100080,USR-1146,2026-10-04 14:58:22,1021.42,Tarjeta de Crédito,Aprobada,Monterrey
+TXN-100081,USR-1054,2026-10-10 11:48:22,1966.65,Transferencia,Rechazada,Puebla
+TXN-100082,USR-1114,2026-09-30 15:40:22,1283.07,Tarjeta de Débito,Aprobada,Monterrey
+TXN-100083,USR-1132,2026-10-19 17:35:22,1552.15,Tarjeta de Crédito,Aprobada,Monterrey
+TXN-100084,USR-1058,2026-09-29 23:45:22,377.34,Tarjeta de Crédito,Aprobada,Puebla
+TXN-100085,USR-1157,2026-09-24 05:47:22,1144.26,Tarjeta de Débito,Rechazada,Puebla
+TXN-100086,USR-1103,2026-10-02 00:44:22,377.88,Tarjeta de Crédito,Aprobada,Puebla
+TXN-100087,USR-1057,2026-09-28 22:21:22,2012.33,Efectivo,Aprobada,Querétaro
+TXN-100088,USR-1064,2026-09-26 10:48:22,1146.86,Efectivo,Pendiente,Querétaro
+TXN-100089,USR-1153,2026-10-05 08:49:22,2375.62,Efectivo,Pendiente,Querétaro
+TXN-100090,USR-1110,2026-10-15 20:40:22,1120.6,Tarjeta de Débito,Rechazada,Puebla
+TXN-100091,USR-1067,2026-10-02 04:18:22,2101.34,Transferencia,Pendiente,Puebla
+TXN-100092,USR-1161,2026-10-01 19:34:22,694.11,Tarjeta de Crédito,Aprobada,Guadalajara
+TXN-100093,USR-1070,2026-10-06 05:05:22,806.42,Tarjeta de Crédito,Aprobada,Guadalajara
+TXN-100094,USR-1060,2026-10-08 08:37:22,1738.09,Tarjeta de Débito,Aprobada,Puebla
+TXN-100095,USR-1105,2026-10-05 23:39:22,1361.33,Efectivo,Aprobada,Guadalajara
+TXN-100096,USR-1108,2026-10-08 15:39:22,2263.1,Tarjeta de Crédito,Pendiente,Puebla
+TXN-100097,USR-1123,2026-09-21 04:41:22,2357.46,Transferencia,Rechazada,Puebla
+TXN-100098,USR-1138,2026-10-15 18:46:22,2001.77,Tarjeta de Débito,Rechazada,Guadalajara
+TXN-100099,USR-1070,2026-10-10 18:17:22,1219.51,Efectivo,Aprobada,Puebla
+TXN-100100,USR-1186,2026-09-28 10:31:22,2102.94,Tarjeta de Débito,Pendiente,Querétaro
+TXN-100101,USR-1007,2026-10-08 20:37:22,1484.02,Tarjeta de Crédito,Aprobada,Puebla
+TXN-100102,USR-1035,2026-10-11 22:32:22,462.91,Transferencia,Rechazada,Monterrey
+TXN-100103,USR-1055,2026-10-11 14:54:22,824.18,Efectivo,Aprobada,Puebla
+TXN-100104,USR-1065,2026-09-24 15:42:22,1181.33,Tarjeta de Crédito,Aprobada,Guadalajara
+TXN-100105,USR-1167,2026-09-24 01:11:22,1955.38,Tarjeta de Crédito,Aprobada,Guadalajara
+TXN-100106,USR-1052,2026-09-21 20:30:22,1557.32,Tarjeta de Débito,Aprobada,Puebla
+TXN-100107,USR-1172,2026-09-26 03:11:22,1414.5,Tarjeta de Débito,Rechazada,Monterrey
+TXN-100108,USR-1197,2026-10-07 17:10:22,428.21,Tarjeta de Crédito,Aprobada,Monterrey
+TXN-100109,USR-1028,2026-10-17 06:19:22,74.43,Transferencia,Pendiente,Puebla
+TXN-100110,USR-1102,2026-09-29 22:52:22,199.69,Tarjeta de Débito,Aprobada,Monterrey
+TXN-100111,USR-1176,2026-10-18 06:03:22,2015.86,Tarjeta de Crédito,Aprobada,Querétaro
+TXN-100112,USR-1110,2026-10-07 19:00:22,182.17,Transferencia,Aprobada,Puebla
+TXN-100113,USR-1126,2026-09-25 17:31:22,1089.76,Transferencia,Rechazada,Guadalajara
+TXN-100114,USR-1112,2026-09-28 22:38:22,1837.28,Transferencia,Pendiente,Querétaro
+TXN-100115,USR-1199,2026-10-12 22:21:22,1167.8,Transferencia,Aprobada,Guadalajara
+TXN-100116,USR-1023,2026-10-03 14:54:22,2205.32,Tarjeta de Débito,Rechazada,Querétaro
+TXN-100117,USR-1157,2026-10-08 04:12:22,847.96,Efectivo,Aprobada,Guadalajara
+TXN-100118,USR-1125,2026-09-30 13:56:22,893.84,Transferencia,Aprobada,Monterrey
+TXN-100119,USR-1153,2026-10-03 12:00:22,1394.14,Tarjeta de Débito,Aprobada,Guadalajara
+TXN-100120,USR-1185,2026-10-09 10:10:22,1226.81,Tarjeta de Débito,Rechazada,Puebla
+TXN-100121,USR-1115,2026-09-21 17:05:22,242.16,Tarjeta de Débito,Rechazada,Guadalajara
+TXN-100122,USR-1079,2026-10-17 09:27:22,929.18,Transferencia,Rechazada,Querétaro
+TXN-100123,USR-1085,2026-10-06 22:31:22,1760.26,Transferencia,Aprobada,Monterrey
+TXN-100124,USR-1060,2026-09-26 10:02:22,1806.14,Transferencia,Aprobada,Querétaro
+TXN-100125,USR-1196,2026-09-29 08:28:22,487.34,Efectivo,Aprobada,Querétaro
+TXN-100126,USR-1195,2026-10-14 19:17:22,1496.21,Tarjeta de Crédito,Aprobada,Monterrey
+TXN-100127,USR-1059,2026-10-07 08:25:22,457.22,Tarjeta de Crédito,Pendiente,Guadalajara
+TXN-100128,USR-1071,2026-09-22 23:57:22,2436.01,Transferencia,Aprobada,Puebla
+TXN-100129,USR-1027,2026-09-21 11:38:22,1439.63,Efectivo,Rechazada,Puebla
+TXN-100130,USR-1088,2026-09-29 07:37:22,2414.11,Transferencia,Rechazada,CDMX
+TXN-100131,USR-1017,2026-10-09 03:55:22,1234.7,Tarjeta de Crédito,Aprobada,Guadalajara
+TXN-100132,USR-1145,2026-10-04 18:07:22,222.56,Tarjeta de Débito,Aprobada,Querétaro
+TXN-100133,USR-1196,2026-10-09 20:49:22,1519.93,Tarjeta de Débito,Pendiente,Puebla
+TXN-100134,USR-1116,2026-10-11 01:49:22,750.76,Efectivo,Aprobada,Querétaro
+TXN-100135,USR-1159,2026-09-23 16:02:22,1528.18,Tarjeta de Crédito,Aprobada,Guadalajara
+TXN-100136,USR-1068,2026-09-24 14:55:22,401.49,Tarjeta de Débito,Pendiente,CDMX
+TXN-100137,USR-1041,2026-09-21 01:10:22,1027.5,Efectivo,Aprobada,CDMX
+TXN-100138,USR-1060,2026-10-04 00:56:22,1770.47,Efectivo,Aprobada,Guadalajara
+TXN-100139,USR-1068,2026-10-19 08:58:22,1478.78,Tarjeta de Débito,Rechazada,CDMX
+TXN-100140,USR-1140,2026-10-01 03:48:22,1622.79,Transferencia,Aprobada,CDMX
+TXN-100141,USR-1016,2026-09-28 11:28:22,1983.75,Transferencia,Rechazada,CDMX
+TXN-100142,USR-1120,2026-10-04 18:23:22,1752.49,Transferencia,Pendiente,Querétaro
+TXN-100143,USR-1127,2026-10-10 20:23:22,210.76,Tarjeta de Crédito,Rechazada,Monterrey
+TXN-100144,USR-1155,2026-10-02 07:43:22,74.89,Tarjeta de Débito,Pendiente,Querétaro
+TXN-100145,USR-1006,2026-10-03 04:37:22,1445.07,Tarjeta de Débito,Rechazada,Querétaro
+TXN-100146,USR-1167,2026-10-11 01:16:22,2291.06,Tarjeta de Débito,Pendiente,Puebla
+TXN-100147,USR-1163,2026-10-13 07:20:22,2422.96,Efectivo,Aprobada,Puebla
+TXN-100148,USR-1086,2026-10-05 12:55:22,1678.8,Tarjeta de Débito,Aprobada,Puebla
+TXN-100149,USR-1178,2026-10-13 11:26:22,728.02,Efectivo,Pendiente,CDMX
+TXN-100150,USR-1117,2026-09-24 22:26:22,793.49,Transferencia,Aprobada,Puebla
+TXN-100151,USR-1132,2026-09-20 23:30:22,1647.75,Efectivo,Rechazada,CDMX
+TXN-100152,USR-1049,2026-10-14 12:31:22,911.15,Efectivo,Rechazada,CDMX
+TXN-100153,USR-1053,2026-10-03 01:56:22,1377.78,Transferencia,Rechazada,Puebla
+TXN-100154,USR-1032,2026-09-22 05:46:22,2433.15,Tarjeta de Débito,Aprobada,Monterrey
+TXN-100155,USR-1142,2026-09-21 13:11:22,1385.33,Tarjeta de Crédito,Aprobada,CDMX
+TXN-100156,USR-1119,2026-09-26 06:33:22,1622.97,Tarjeta de Débito,Rechazada,Monterrey
+TXN-100157,USR-1131,2026-10-03 08:54:22,1044.86,Efectivo,Rechazada,Guadalajara
+TXN-100158,USR-1117,2026-10-16 00:22:22,370.59,Tarjeta de Débito,Pendiente,Querétaro
+TXN-100159,USR-1192,2026-09-27 03:21:22,2161.5,Transferencia,Rechazada,Monterrey
+TXN-100160,USR-1130,2026-10-03 02:04:22,2053.26,Transferencia,Aprobada,Querétaro
+TXN-100161,USR-1149,2026-10-13 05:04:22,2164.57,Efectivo,Pendiente,Puebla
+TXN-100162,USR-1089,2026-10-06 01:21:22,1384.5,Efectivo,Rechazada,Monterrey
+TXN-100163,USR-1049,2026-10-01 19:05:22,1433.99,Tarjeta de Débito,Rechazada,CDMX
+TXN-100164,USR-1082,2026-10-12 10:51:22,1766.16,Efectivo,Rechazada,Guadalajara
+TXN-100165,USR-1127,2026-09-22 14:41:22,324.79,Transferencia,Aprobada,Puebla
+TXN-100166,USR-1026,2026-10-14 20:43:22,2277.04,Tarjeta de Crédito,Aprobada,Puebla
+TXN-100167,USR-1168,2026-09-27 22:51:22,196.78,Transferencia,Aprobada,Querétaro
+TXN-100168,USR-1178,2026-10-09 00:24:22,1628.27,Transferencia,Pendiente,Puebla
+TXN-100169,USR-1082,2026-10-19 10:52:22,1799.75,Efectivo,Pendiente,CDMX
+TXN-100170,USR-1159,2026-09-24 00:59:22,594.96,Transferencia,Aprobada,CDMX
+TXN-100171,USR-1112,2026-09-25 09:46:22,1903.44,Tarjeta de Crédito,Rechazada,Guadalajara
+TXN-100172,USR-1178,2026-10-04 13:20:22,2259.57,Tarjeta de Crédito,Aprobada,CDMX
+TXN-100173,USR-1076,2026-10-07 05:47:22,943.67,Tarjeta de Débito,Aprobada,Querétaro
+TXN-100174,USR-1106,2026-10-16 16:23:22,1707.84,Tarjeta de Débito,Aprobada,Guadalajara
+TXN-100175,USR-1021,2026-10-18 15:58:22,2178.46,Tarjeta de Débito,Rechazada,Querétaro
+TXN-100176,USR-1037,2026-10-01 11:51:22,1158.53,Transferencia,Rechazada,Monterrey
+TXN-100177,USR-1171,2026-09-21 08:30:22,2248.33,Efectivo,Aprobada,Querétaro
+TXN-100178,USR-1041,2026-09-24 06:55:22,1110.19,Transferencia,Pendiente,Monterrey
+TXN-100179,USR-1164,2026-10-10 05:42:22,1729.04,Efectivo,Aprobada,Guadalajara
+TXN-100180,USR-1099,2026-10-12 22:02:22,276.01,Efectivo,Pendiente,Monterrey
+TXN-100181,USR-1148,2026-10-04 09:25:22,2481.81,Transferencia,Aprobada,Puebla
+TXN-100182,USR-1071,2026-09-21 07:05:22,1419.38,Tarjeta de Crédito,Pendiente,Puebla
+TXN-100183,USR-1074,2026-10-01 09:36:22,1521.79,Transferencia,Aprobada,Guadalajara
+TXN-100184,USR-1159,2026-10-02 08:00:22,1697.79,Tarjeta de Débito,Aprobada,CDMX
+TXN-100185,USR-1080,2026-10-10 23:44:22,93.56,Transferencia,Aprobada,CDMX
+TXN-100186,USR-1076,2026-10-05 19:06:22,1871.35,Tarjeta de Débito,Aprobada,Guadalajara
+TXN-100187,USR-1139,2026-10-07 13:51:22,1332.06,Transferencia,Aprobada,Monterrey
+TXN-100188,USR-1124,2026-10-04 08:37:22,1869.06,Transferencia,Aprobada,Puebla
+TXN-100189,USR-1020,2026-09-27 07:59:22,1887.96,Tarjeta de Débito,Rechazada,Querétaro
+TXN-100190,USR-1094,2026-09-25 00:53:22,1978.9,Tarjeta de Crédito,Aprobada,Querétaro
+TXN-100191,USR-1032,2026-10-11 14:59:22,928.09,Transferencia,Pendiente,Puebla
+TXN-100192,USR-1164,2026-10-07 19:59:22,280.23,Tarjeta de Débito,Rechazada,CDMX
+TXN-100193,USR-1159,2026-10-16 11:27:22,827.07,Tarjeta de Débito,Aprobada,Puebla
+TXN-100194,USR-1180,2026-10-04 16:19:22,1626.78,Tarjeta de Crédito,Aprobada,CDMX
+TXN-100195,USR-1010,2026-10-04 18:41:22,2489.86,Tarjeta de Crédito,Aprobada,Guadalajara
+TXN-100196,USR-1138,2026-09-27 02:25:22,978.03,Transferencia,Pendiente,Puebla
+TXN-100197,USR-1151,2026-09-27 23:01:22,2214.74,Tarjeta de Crédito,Rechazada,Querétaro
+TXN-100198,USR-1105,2026-10-03 15:48:22,91.95,Transferencia,Aprobada,Puebla
+TXN-100199,USR-1114,2026-10-01 16:08:22,2140.14,Tarjeta de Crédito,Aprobada,Querétaro
+TXN-100200,USR-1166,2026-10-07 06:01:22,161.24,Transferencia,Aprobada,CDMX
+TXN-100201,USR-1117,2026-09-25 02:22:22,1660.46,Tarjeta de Crédito,Aprobada,Monterrey
+TXN-100202,USR-1063,2026-09-26 15:47:22,1969.68,Tarjeta de Débito,Aprobada,Querétaro
+TXN-100203,USR-1054,2026-10-17 14:44:22,548.11,Tarjeta de Débito,Aprobada,Guadalajara
+TXN-100204,USR-1153,2026-09-21 01:20:22,700.78,Tarjeta de Débito,Aprobada,Querétaro
+TXN-100205,USR-1065,2026-09-28 20:50:22,284.16,Tarjeta de Crédito,Aprobada,CDMX
+TXN-100206,USR-1092,2026-10-01 18:08:22,1476.45,Tarjeta de Crédito,Aprobada,Monterrey
+TXN-100207,USR-1014,2026-09-26 16:42:22,1857.01,Tarjeta de Crédito,Aprobada,Puebla
+TXN-100208,USR-1115,2026-10-07 09:41:22,1288.21,Tarjeta de Crédito,Rechazada,Querétaro
+TXN-100209,USR-1057,2026-10-18 22:06:22,118.46,Transferencia,Rechazada,CDMX
+TXN-100210,USR-1016,2026-10-12 17:25:22,2119.85,Efectivo,Aprobada,Puebla
+TXN-100211,USR-1183,2026-10-11 02:44:22,193.46,Tarjeta de Crédito,Aprobada,Querétaro
+TXN-100212,USR-1038,2026-09-23 21:59:22,324.65,Transferencia,Rechazada,Querétaro
+TXN-100213,USR-1136,2026-10-04 08:21:22,1140.02,Efectivo,Aprobada,CDMX
+TXN-100214,USR-1168,2026-10-20 13:13:22,2195.55,Tarjeta de Débito,Rechazada,Puebla
+TXN-100215,USR-1059,2026-10-09 18:14:22,854.27,Efectivo,Rechazada,Puebla
+TXN-100216,USR-1187,2026-09-25 06:06:22,788.59,Transferencia,Aprobada,Monterrey
+TXN-100217,USR-1040,2026-10-12 12:16:22,177.63,Tarjeta de Crédito,Aprobada,Puebla
+TXN-100218,USR-1025,2026-10-07 21:16:22,2031.4,Tarjeta de Crédito,Pendiente,Querétaro
+TXN-100219,USR-1144,2026-10-05 22:18:22,1678.5,Efectivo,Aprobada,Puebla
+TXN-100220,USR-1185,2026-09-23 06:26:22,2421.33,Transferencia,Aprobada,CDMX
+TXN-100221,USR-1148,2026-10-14 00:28:22,540.11,Efectivo,Aprobada,CDMX
+TXN-100222,USR-1090,2026-10-16 05:50:22,925.54,Transferencia,Pendiente,Guadalajara
+TXN-100223,USR-1110,2026-10-16 10:58:22,2436.63,Tarjeta de Crédito,Pendiente,Monterrey
+TXN-100224,USR-1008,2026-09-29 03:18:22,690.81,Transferencia,Aprobada,Monterrey
+TXN-100225,USR-1002,2026-09-29 04:23:22,2176.02,Efectivo,Aprobada,Guadalajara
+TXN-100226,USR-1190,2026-10-19 17:50:22,2429.82,Tarjeta de Crédito,Pendiente,Guadalajara
+TXN-100227,USR-1097,2026-10-10 00:49:22,1139.85,Tarjeta de Débito,Aprobada,Monterrey
+TXN-100228,USR-1185,2026-10-05 16:33:22,1944.43,Tarjeta de Crédito,Aprobada,Guadalajara
+TXN-100229,USR-1041,2026-10-19 01:05:22,134.38,Tarjeta de Crédito,Aprobada,Puebla
+TXN-100230,USR-1170,2026-10-10 05:23:22,1219.55,Efectivo,Rechazada,Monterrey
+TXN-100231,USR-1056,2026-10-14 05:52:22,293.85,Efectivo,Aprobada,Monterrey
+TXN-100232,USR-1174,2026-10-17 22:06:22,1221.97,Transferencia,Aprobada,Guadalajara
+TXN-100233,USR-1102,2026-10-18 04:52:22,146.88,Tarjeta de Débito,Aprobada,Guadalajara
+TXN-100234,USR-1197,2026-09-27 04:08:22,1912.88,Transferencia,Aprobada,CDMX
+TXN-100235,USR-1002,2026-10-13 13:31:22,1870.19,Tarjeta de Débito,Aprobada,Puebla
+TXN-100236,USR-1137,2026-10-01 09:35:22,1255.9,Transferencia,Aprobada,Puebla
+TXN-100237,USR-1190,2026-09-22 20:27:22,1096.47,Efectivo,Aprobada,Monterrey
+TXN-100238,USR-1148,2026-10-10 11:08:22,1437.98,Efectivo,Aprobada,CDMX
+TXN-100239,USR-1104,2026-09-21 21:01:22,2415.85,Tarjeta de Débito,Pendiente,Puebla
+TXN-100240,USR-1177,2026-10-07 09:29:22,229.9,Tarjeta de Crédito,Aprobada,Puebla
+TXN-100241,USR-1151,2026-10-09 03:38:22,1314.9,Efectivo,Aprobada,Monterrey
+TXN-100242,USR-1057,2026-10-06 02:02:22,1950.11,Tarjeta de Crédito,Pendiente,CDMX
+TXN-100243,USR-1136,2026-10-14 03:15:22,493.22,Transferencia,Aprobada,Guadalajara
+TXN-100244,USR-1061,2026-09-25 14:32:22,375.07,Tarjeta de Débito,Aprobada,Querétaro
+TXN-100245,USR-1040,2026-10-20 18:14:22,198.09,Efectivo,Rechazada,Querétaro
+TXN-100246,USR-1195,2026-10-17 07:11:22,1128.05,Transferencia,Aprobada,Guadalajara
+TXN-100247,USR-1113,2026-09-24 00:50:22,1177.88,Transferencia,Aprobada,Querétaro
+TXN-100248,USR-1015,2026-10-06 22:39:22,1273.52,Transferencia,Rechazada,Puebla
+TXN-100249,USR-1010,2026-09-23 12:23:22,928.47,Transferencia,Aprobada,CDMX
+TXN-100250,USR-1158,2026-10-17 23:08:22,1272.85,Efectivo,Pendiente,Querétaro
+TXN-100251,USR-1190,2026-09-22 19:03:22,1130.11,Tarjeta de Débito,Aprobada,Querétaro
+TXN-100252,USR-1122,2026-10-13 17:52:22,386.07,Tarjeta de Crédito,Rechazada,CDMX
+TXN-100253,USR-1088,2026-09-24 18:21:22,1266.57,Tarjeta de Débito,Aprobada,Guadalajara
+TXN-100254,USR-1182,2026-10-10 20:23:22,2477.56,Tarjeta de Débito,Aprobada,Monterrey
+TXN-100255,USR-1073,2026-10-08 13:24:22,1028.13,Transferencia,Pendiente,CDMX
+TXN-100256,USR-1162,2026-10-20 09:16:22,843.61,Transferencia,Aprobada,Querétaro
+TXN-100257,USR-1174,2026-10-08 12:28:22,717.88,Tarjeta de Débito,Aprobada,CDMX
+TXN-100258,USR-1150,2026-09-27 08:43:22,2292.74,Transferencia,Rechazada,Guadalajara
+TXN-100259,USR-1153,2026-09-24 18:47:22,781.2,Efectivo,Aprobada,Guadalajara
+TXN-100260,USR-1172,2026-10-14 21:12:22,243.15,Efectivo,Pendiente,Monterrey
+TXN-100261,USR-1005,2026-10-07 10:18:22,779.42,Tarjeta de Débito,Aprobada,Puebla
+TXN-100262,USR-1050,2026-10-01 05:41:22,2499.94,Tarjeta de Débito,Aprobada,Monterrey
+TXN-100263,USR-1026,2026-10-14 00:46:22,1929.59,Tarjeta de Crédito,Aprobada,Querétaro
+TXN-100264,USR-1034,2026-10-18 02:36:22,948.34,Tarjeta de Débito,Aprobada,Querétaro
+TXN-100265,USR-1043,2026-10-10 20:18:22,119.27,Transferencia,Aprobada,Puebla
+TXN-100266,USR-1157,2026-10-03 21:28:22,1883.58,Efectivo,Aprobada,Querétaro
+TXN-100267,USR-1062,2026-10-05 00:16:22,2414.35,Efectivo,Aprobada,Monterrey
+TXN-100268,USR-1174,2026-10-16 21:18:22,2461.26,Efectivo,Aprobada,Puebla
+TXN-100269,USR-1129,2026-10-14 22:22:22,1052.76,Tarjeta de Débito,Aprobada,Querétaro
+TXN-100270,USR-1036,2026-10-02 07:19:22,140.4,Efectivo,Aprobada,Querétaro
+TXN-100271,USR-1027,2026-10-14 09:45:22,2129.48,Transferencia,Aprobada,Guadalajara
+TXN-100272,USR-1070,2026-10-11 09:01:22,2264.26,Tarjeta de Débito,Rechazada,CDMX
+TXN-100273,USR-1057,2026-10-11 11:00:22,2212.79,Tarjeta de Crédito,Rechazada,CDMX
+TXN-100274,USR-1102,2026-10-13 18:34:22,941.48,Efectivo,Aprobada,Monterrey
+TXN-100275,USR-1058,2026-09-22 05:02:22,803.87,Tarjeta de Crédito,Aprobada,Guadalajara
+TXN-100276,USR-1036,2026-09-22 16:05:22,724.69,Efectivo,Aprobada,Puebla
+TXN-100277,USR-1115,2026-10-18 22:22:22,23.57,Tarjeta de Crédito,Aprobada,Monterrey
+TXN-100278,USR-1056,2026-09-27 17:33:22,1376.75,Efectivo,Aprobada,Monterrey
+TXN-100279,USR-1061,2026-10-04 15:11:22,313.84,Tarjeta de Débito,Rechazada,Querétaro
+TXN-100280,USR-1118,2026-09-23 18:51:22,286.48,Efectivo,Pendiente,Querétaro
+TXN-100281,USR-1005,2026-10-19 16:30:22,1293.53,Tarjeta de Débito,Aprobada,Monterrey
+TXN-100282,USR-1110,2026-09-20 23:57:22,1541.07,Tarjeta de Débito,Pendiente,Puebla
+TXN-100283,USR-1048,2026-09-24 19:45:22,1313.71,Transferencia,Aprobada,Querétaro
+TXN-100284,USR-1140,2026-10-14 00:23:22,1968.27,Tarjeta de Crédito,Rechazada,Puebla
+TXN-100285,USR-1012,2026-10-19 20:34:22,973.64,Transferencia,Aprobada,CDMX
+TXN-100286,USR-1092,2026-09-24 00:02:22,868.89,Tarjeta de Crédito,Pendiente,Monterrey
+TXN-100287,USR-1035,2026-09-22 22:40:22,887.55,Transferencia,Aprobada,Puebla
+TXN-100288,USR-1179,2026-10-12 16:56:22,1583.21,Tarjeta de Débito,Aprobada,Puebla
+TXN-100289,USR-1010,2026-10-04 06:46:22,512.36,Tarjeta de Débito,Aprobada,Monterrey
+TXN-100290,USR-1080,2026-10-14 09:11:22,1001.88,Efectivo,Aprobada,CDMX
+TXN-100291,USR-1193,2026-10-20 08:50:22,486.25,Transferencia,Aprobada,Monterrey
+TXN-100292,USR-1070,2026-09-26 14:12:22,2000.46,Efectivo,Rechazada,Puebla
+TXN-100293,USR-1099,2026-10-06 08:34:22,2434.58,Efectivo,Rechazada,Monterrey
+TXN-100294,USR-1133,2026-10-03 01:34:22,2004.96,Efectivo,Aprobada,Puebla
+TXN-100295,USR-1155,2026-09-29 03:21:22,1368.46,Transferencia,Aprobada,CDMX
+TXN-100296,USR-1084,2026-10-04 09:10:22,773.52,Efectivo,Aprobada,Puebla
+TXN-100297,USR-1090,2026-10-11 06:38:22,115.94,Transferencia,Pendiente,Puebla
+TXN-100298,USR-1071,2026-10-20 00:43:22,2450.28,Tarjeta de Crédito,Aprobada,Puebla
+TXN-100299,USR-1094,2026-10-14 06:40:22,2004.83,Tarjeta de Débito,Aprobada,Guadalajara
+TXN-100300,USR-1156,2026-10-10 20:51:22,97.13,Tarjeta de Crédito,Aprobada,Monterrey
+TXN-100301,USR-1093,2026-10-08 08:25:22,2374.2,Tarjeta de Crédito,Pendiente,Guadalajara
+TXN-100302,USR-1174,2026-10-11 09:41:22,2372.6,Transferencia,Rechazada,CDMX
+TXN-100303,USR-1147,2026-09-27 04:38:22,1328.59,Efectivo,Aprobada,Monterrey
+TXN-100304,USR-1064,2026-09-26 02:09:22,75.01,Tarjeta de Débito,Rechazada,Querétaro
+TXN-100305,USR-1100,2026-10-16 11:44:22,303.67,Transferencia,Rechazada,Guadalajara
+TXN-100306,USR-1157,2026-10-03 22:10:22,1738.16,Efectivo,Aprobada,CDMX
+TXN-100307,USR-1035,2026-09-24 07:08:22,1135.86,Efectivo,Aprobada,Monterrey
+TXN-100308,USR-1171,2026-10-06 17:43:22,1776.9,Transferencia,Aprobada,Guadalajara
+TXN-100309,USR-1183,2026-10-19 22:47:22,443.9,Transferencia,Pendiente,Guadalajara
+TXN-100310,USR-1032,2026-09-30 01:46:22,1982.35,Tarjeta de Débito,Rechazada,CDMX
+TXN-100311,USR-1093,2026-10-16 03:23:22,1435.18,Efectivo,Pendiente,Guadalajara
+TXN-100312,USR-1157,2026-09-24 20:25:22,174.18,Efectivo,Rechazada,Querétaro
+TXN-100313,USR-1106,2026-10-09 13:27:22,2060.2,Tarjeta de Crédito,Aprobada,Monterrey
+TXN-100314,USR-1165,2026-09-24 07:15:22,1130.71,Transferencia,Aprobada,Querétaro
+TXN-100315,USR-1164,2026-10-17 16:16:22,463.5,Tarjeta de Débito,Rechazada,Querétaro
+TXN-100316,USR-1015,2026-09-26 13:52:22,1300.32,Transferencia,Aprobada,Guadalajara
+TXN-100317,USR-1083,2026-10-01 04:31:22,871.92,Transferencia,Aprobada,Monterrey
+TXN-100318,USR-1051,2026-10-19 19:54:22,2391.34,Transferencia,Aprobada,Monterrey
+TXN-100319,USR-1158,2026-10-15 04:57:22,243.09,Tarjeta de Débito,Pendiente,Querétaro
+TXN-100320,USR-1040,2026-09-28 17:14:22,1650.42,Transferencia,Pendiente,CDMX
+TXN-100321,USR-1008,2026-09-24 14:58:22,123.68,Transferencia,Aprobada,Querétaro
+TXN-100322,USR-1107,2026-10-19 01:23:22,1601.27,Efectivo,Pendiente,Monterrey
+TXN-100323,USR-1165,2026-10-04 16:13:22,1212.79,Efectivo,Aprobada,Puebla
+TXN-100324,USR-1019,2026-09-23 15:41:22,404.04,Efectivo,Rechazada,Puebla
+TXN-100325,USR-1053,2026-10-06 09:49:22,1520.78,Transferencia,Aprobada,Monterrey
+TXN-100326,USR-1103,2026-09-26 21:04:22,1904.18,Tarjeta de Crédito,Aprobada,Guadalajara
+TXN-100327,USR-1120,2026-09-26 12:04:22,676.37,Tarjeta de Débito,Aprobada,CDMX
+TXN-100328,USR-1013,2026-10-04 03:14:22,2364.04,Efectivo,Aprobada,Guadalajara
+TXN-100329,USR-1084,2026-10-17 05:14:22,1805.75,Tarjeta de Débito,Aprobada,Puebla
+TXN-100330,USR-1132,2026-10-12 04:08:22,1252.16,Transferencia,Rechazada,CDMX
+TXN-100331,USR-1024,2026-10-08 19:46:22,1268.8,Tarjeta de Débito,Aprobada,Querétaro
+TXN-100332,USR-1091,2026-09-23 03:23:22,136.32,Efectivo,Pendiente,Puebla
+TXN-100333,USR-1074,2026-10-15 08:27:22,30.86,Tarjeta de Crédito,Rechazada,Guadalajara
+TXN-100334,USR-1068,2026-10-07 13:46:22,1912.12,Transferencia,Aprobada,Puebla
+TXN-100335,USR-1014,2026-10-16 21:08:22,1409.14,Transferencia,Pendiente,Monterrey
+TXN-100336,USR-1019,2026-10-08 12:14:22,1265.84,Transferencia,Pendiente,Querétaro
+TXN-100337,USR-1031,2026-09-26 18:47:22,2437.97,Efectivo,Aprobada,Monterrey
+TXN-100338,USR-1143,2026-10-07 13:35:22,1889.99,Tarjeta de Débito,Pendiente,Querétaro
+TXN-100339,USR-1103,2026-10-13 16:28:22,110.71,Tarjeta de Crédito,Aprobada,Monterrey
+TXN-100340,USR-1122,2026-10-14 13:29:22,1148.17,Tarjeta de Débito,Aprobada,Querétaro
+TXN-100341,USR-1082,2026-09-28 07:44:22,988.76,Transferencia,Pendiente,Monterrey
+TXN-100342,USR-1130,2026-10-14 02:59:22,1335.76,Transferencia,Rechazada,CDMX
+TXN-100343,USR-1095,2026-10-06 00:03:22,1687.94,Efectivo,Pendiente,Monterrey
+TXN-100344,USR-1186,2026-10-19 13:34:22,76.84,Efectivo,Aprobada,Querétaro
+TXN-100345,USR-1148,2026-10-01 06:47:22,1806.43,Efectivo,Aprobada,Querétaro
+TXN-100346,USR-1162,2026-10-19 03:10:22,1938.88,Efectivo,Aprobada,Guadalajara
+TXN-100347,USR-1009,2026-10-16 23:38:22,2371.06,Tarjeta de Crédito,Aprobada,CDMX
+TXN-100348,USR-1113,2026-10-05 04:53:22,1053.05,Efectivo,Aprobada,Puebla
+TXN-100349,USR-1129,2026-10-18 18:08:22,2302.14,Tarjeta de Crédito,Aprobada,Querétaro
+TXN-100350,USR-1054,2026-10-16 10:53:22,819.71,Efectivo,Pendiente,Puebla
+TXN-100351,USR-1081,2026-09-28 19:24:22,1154.83,Transferencia,Pendiente,Monterrey
+TXN-100352,USR-1174,2026-10-20 04:54:22,2011.19,Transferencia,Pendiente,Puebla
+TXN-100353,USR-1050,2026-10-02 03:30:22,705.09,Transferencia,Aprobada,Monterrey
+TXN-100354,USR-1198,2026-10-04 01:55:22,1765.35,Efectivo,Aprobada,Puebla
+TXN-100355,USR-1090,2026-10-16 10:27:22,2334.95,Transferencia,Aprobada,CDMX
+TXN-100356,USR-1147,2026-10-15 15:33:22,955.75,Efectivo,Aprobada,Guadalajara
+TXN-100357,USR-1075,2026-09-22 20:11:22,726.56,Tarjeta de Crédito,Aprobada,Puebla
+TXN-100358,USR-1168,2026-10-02 14:21:22,1871.0,Tarjeta de Débito,Aprobada,Querétaro
+TXN-100359,USR-1070,2026-10-16 12:07:22,1743.62,Tarjeta de Débito,Aprobada,Querétaro
+TXN-100360,USR-1190,2026-10-17 15:13:22,606.19,Tarjeta de Crédito,Pendiente,Guadalajara
+TXN-100361,USR-1164,2026-10-01 12:34:22,141.18,Efectivo,Aprobada,Puebla
+TXN-100362,USR-1026,2026-09-27 04:24:22,23.4,Tarjeta de Débito,Rechazada,Puebla
+TXN-100363,USR-1123,2026-10-20 12:48:22,507.05,Transferencia,Aprobada,Monterrey
+TXN-100364,USR-1166,2026-09-23 14:52:22,2270.81,Tarjeta de Crédito,Pendiente,Guadalajara
+TXN-100365,USR-1137,2026-09-22 14:59:22,2283.99,Tarjeta de Débito,Rechazada,Guadalajara
+TXN-100366,USR-1010,2026-10-08 23:52:22,1972.13,Tarjeta de Débito,Aprobada,CDMX
+TXN-100367,USR-1003,2026-10-04 12:10:22,1424.44,Tarjeta de Crédito,Aprobada,Monterrey
+TXN-100368,USR-1117,2026-10-20 02:44:22,1363.05,Efectivo,Aprobada,Querétaro
+TXN-100369,USR-1120,2026-10-03 08:15:22,490.5,Tarjeta de Crédito,Aprobada,Guadalajara
+TXN-100370,USR-1188,2026-10-11 19:30:22,1624.41,Tarjeta de Débito,Aprobada,Monterrey
+TXN-100371,USR-1076,2026-10-16 18:25:22,1689.42,Tarjeta de Débito,Aprobada,Querétaro
+TXN-100372,USR-1164,2026-10-09 09:09:22,2069.29,Transferencia,Aprobada,Puebla
+TXN-100373,USR-1172,2026-09-25 06:26:22,470.51,Tarjeta de Débito,Rechazada,Monterrey
+TXN-100374,USR-1064,2026-09-21 05:42:22,659.72,Tarjeta de Débito,Rechazada,Monterrey
+TXN-100375,USR-1085,2026-10-04 16:03:22,1460.54,Tarjeta de Crédito,Aprobada,Monterrey
+TXN-100376,USR-1178,2026-10-01 16:21:22,165.16,Tarjeta de Crédito,Rechazada,Monterrey
+TXN-100377,USR-1041,2026-10-09 09:04:22,1718.48,Transferencia,Aprobada,Monterrey
+TXN-100378,USR-1095,2026-10-18 21:35:22,560.3,Tarjeta de Débito,Rechazada,Guadalajara
+TXN-100379,USR-1117,2026-10-18 11:52:22,940.64,Efectivo,Pendiente,Guadalajara
+TXN-100380,USR-1196,2026-10-02 04:32:22,1704.21,Tarjeta de Crédito,Pendiente,Puebla
+TXN-100381,USR-1136,2026-10-07 09:24:22,204.94,Tarjeta de Crédito,Aprobada,Querétaro
+TXN-100382,USR-1130,2026-09-30 03:03:22,1436.24,Tarjeta de Débito,Aprobada,Monterrey
+TXN-100383,USR-1134,2026-10-11 00:51:22,299.88,Tarjeta de Débito,Pendiente,Puebla
+TXN-100384,USR-1024,2026-10-14 03:42:22,1119.53,Tarjeta de Crédito,Rechazada,Guadalajara
+TXN-100385,USR-1132,2026-10-09 20:00:22,1147.7,Tarjeta de Crédito,Pendiente,Puebla
+TXN-100386,USR-1173,2026-10-04 22:51:22,1811.11,Efectivo,Aprobada,CDMX
+TXN-100387,USR-1191,2026-09-30 20:15:22,1450.21,Tarjeta de Crédito,Rechazada,Monterrey
+TXN-100388,USR-1180,2026-09-23 19:53:22,1357.73,Tarjeta de Crédito,Aprobada,Puebla
+TXN-100389,USR-1009,2026-10-03 23:49:22,1028.37,Tarjeta de Débito,Rechazada,Monterrey
+TXN-100390,USR-1098,2026-10-11 08:10:22,2175.42,Efectivo,Rechazada,CDMX
+TXN-100391,USR-1175,2026-10-15 11:18:22,341.58,Transferencia,Aprobada,Guadalajara
+TXN-100392,USR-1138,2026-10-08 19:34:22,1327.05,Tarjeta de Débito,Aprobada,CDMX
+TXN-100393,USR-1077,2026-10-11 23:58:22,1687.18,Efectivo,Pendiente,Puebla
+TXN-100394,USR-1059,2026-10-02 04:35:22,1157.23,Tarjeta de Débito,Aprobada,Guadalajara
+TXN-100395,USR-1186,2026-09-26 01:30:22,90.71,Efectivo,Pendiente,CDMX
+TXN-100396,USR-1062,2026-09-30 07:20:22,178.02,Tarjeta de Crédito,Rechazada,Querétaro
+TXN-100397,USR-1173,2026-09-23 03:25:22,619.77,Tarjeta de Crédito,Rechazada,Puebla
+TXN-100398,USR-1060,2026-10-15 11:48:22,551.39,Tarjeta de Crédito,Aprobada,Querétaro
+TXN-100399,USR-1075,2026-10-01 14:01:22,2041.4,Transferencia,Pendiente,Querétaro
+TXN-100400,USR-1198,2026-10-05 12:30:22,600.27,Tarjeta de Débito,Pendiente,Guadalajara
+TXN-100401,USR-1106,2026-10-04 14:28:22,695.5,Tarjeta de Débito,Rechazada,Querétaro
+TXN-100402,USR-1127,2026-09-23 01:27:22,2431.02,Efectivo,Pendiente,Monterrey
+TXN-100403,USR-1179,2026-10-09 20:59:22,1026.86,Transferencia,Rechazada,Guadalajara
+TXN-100404,USR-1194,2026-10-15 09:48:22,1189.33,Tarjeta de Débito,Aprobada,Guadalajara
+TXN-100405,USR-1119,2026-09-23 13:11:22,1410.56,Efectivo,Pendiente,Querétaro
+TXN-100406,USR-1035,2026-10-08 14:30:22,615.1,Tarjeta de Débito,Aprobada,CDMX
+TXN-100407,USR-1116,2026-10-07 19:33:22,240.69,Tarjeta de Débito,Aprobada,Monterrey
+TXN-100408,USR-1097,2026-10-18 11:02:22,1511.47,Tarjeta de Crédito,Aprobada,Querétaro
+TXN-100409,USR-1186,2026-10-16 08:39:22,550.76,Tarjeta de Débito,Aprobada,Monterrey
+TXN-100410,USR-1004,2026-09-30 13:36:22,2343.56,Tarjeta de Crédito,Rechazada,Guadalajara
+TXN-100411,USR-1179,2026-10-18 10:25:22,1762.53,Efectivo,Aprobada,Querétaro
+TXN-100412,USR-1083,2026-10-03 19:25:22,958.16,Transferencia,Aprobada,Monterrey
+TXN-100413,USR-1093,2026-10-14 06:22:22,2208.26,Efectivo,Aprobada,Puebla
+TXN-100414,USR-1195,2026-10-05 12:01:22,2286.73,Transferencia,Aprobada,Puebla
+TXN-100415,USR-1012,2026-10-16 12:40:22,2161.64,Tarjeta de Débito,Aprobada,Monterrey
+TXN-100416,USR-1142,2026-10-17 12:10:22,1452.28,Efectivo,Aprobada,Guadalajara
+TXN-100417,USR-1051,2026-10-05 22:33:22,583.13,Tarjeta de Débito,Rechazada,Querétaro
+TXN-100418,USR-1168,2026-10-06 06:57:22,651.11,Efectivo,Rechazada,Puebla
+TXN-100419,USR-1044,2026-10-06 22:55:22,431.89,Efectivo,Aprobada,Querétaro
+TXN-100420,USR-1165,2026-09-23 14:24:22,1314.86,Tarjeta de Crédito,Aprobada,CDMX
+TXN-100421,USR-1106,2026-09-27 04:25:22,2108.02,Tarjeta de Débito,Aprobada,Guadalajara
+TXN-100422,USR-1003,2026-09-30 21:09:22,1269.52,Transferencia,Aprobada,Querétaro
+TXN-100423,USR-1164,2026-10-18 23:39:22,2282.79,Efectivo,Aprobada,CDMX
+TXN-100424,USR-1137,2026-10-16 00:47:22,1034.53,Tarjeta de Crédito,Pendiente,Monterrey
+TXN-100425,USR-1138,2026-10-03 23:23:22,53.18,Efectivo,Aprobada,CDMX
+TXN-100426,USR-1025,2026-10-14 19:01:22,381.18,Tarjeta de Débito,Pendiente,Querétaro
+TXN-100427,USR-1065,2026-10-07 01:23:22,676.0,Efectivo,Aprobada,Monterrey
+TXN-100428,USR-1104,2026-10-11 19:35:22,1417.07,Tarjeta de Débito,Aprobada,CDMX
+TXN-100429,USR-1168,2026-10-20 12:06:22,1901.49,Tarjeta de Crédito,Rechazada,Puebla
+TXN-100430,USR-1097,2026-10-16 01:56:22,1195.51,Tarjeta de Crédito,Aprobada,CDMX
+TXN-100431,USR-1128,2026-10-10 16:11:22,1616.0,Transferencia,Pendiente,CDMX
+TXN-100432,USR-1136,2026-09-22 20:43:22,582.5,Efectivo,Aprobada,CDMX
+TXN-100433,USR-1020,2026-10-03 16:29:22,2249.34,Tarjeta de Crédito,Aprobada,Monterrey
+TXN-100434,USR-1005,2026-09-30 08:31:22,1471.93,Efectivo,Aprobada,Monterrey
+TXN-100435,USR-1042,2026-10-16 14:14:22,609.16,Efectivo,Pendiente,Monterrey
+TXN-100436,USR-1099,2026-09-27 07:06:22,1978.44,Tarjeta de Crédito,Pendiente,Monterrey
+TXN-100437,USR-1014,2026-09-25 08:56:22,1098.63,Tarjeta de Crédito,Aprobada,Querétaro
+TXN-100438,USR-1197,2026-10-18 20:45:22,2387.62,Efectivo,Aprobada,CDMX
+TXN-100439,USR-1163,2026-10-03 08:47:22,1961.14,Efectivo,Rechazada,Guadalajara
+TXN-100440,USR-1092,2026-10-16 02:18:22,2353.48,Efectivo,Aprobada,Querétaro
+TXN-100441,USR-1170,2026-10-08 05:23:22,223.84,Transferencia,Aprobada,CDMX
+TXN-100442,USR-1022,2026-10-03 02:56:22,394.43,Tarjeta de Débito,Rechazada,Monterrey
+TXN-100443,USR-1093,2026-09-25 18:37:22,238.34,Transferencia,Rechazada,Monterrey
+TXN-100444,USR-1195,2026-10-03 04:54:22,265.01,Tarjeta de Crédito,Aprobada,Puebla
+TXN-100445,USR-1115,2026-10-16 06:37:22,1391.53,Efectivo,Aprobada,CDMX
+TXN-100446,USR-1023,2026-10-07 00:49:22,1390.23,Transferencia,Rechazada,CDMX
+TXN-100447,USR-1075,2026-10-09 18:14:22,975.93,Tarjeta de Crédito,Pendiente,Guadalajara
+TXN-100448,USR-1147,2026-10-14 15:26:22,432.68,Efectivo,Aprobada,Guadalajara
+TXN-100449,USR-1069,2026-10-04 15:09:22,678.7,Tarjeta de Débito,Aprobada,Guadalajara
+TXN-100450,USR-1112,2026-10-03 11:40:22,1058.83,Efectivo,Aprobada,Monterrey
+TXN-100451,USR-1065,2026-10-02 03:35:22,1805.18,Efectivo,Pendiente,Querétaro
+TXN-100452,USR-1051,2026-10-11 18:21:22,276.81,Transferencia,Aprobada,Puebla
+TXN-100453,USR-1086,2026-10-19 03:39:22,956.24,Transferencia,Rechazada,Monterrey
+TXN-100454,USR-1111,2026-10-20 13:21:22,2435.83,Tarjeta de Débito,Aprobada,Monterrey
+TXN-100455,USR-1155,2026-09-30 01:38:22,1202.99,Tarjeta de Débito,Rechazada,Monterrey
+TXN-100456,USR-1075,2026-10-19 17:32:22,1232.86,Tarjeta de Débito,Aprobada,Puebla
+TXN-100457,USR-1072,2026-10-08 19:26:22,919.21,Tarjeta de Débito,Pendiente,Querétaro
+TXN-100458,USR-1047,2026-10-15 23:06:22,77.51,Efectivo,Aprobada,Puebla
+TXN-100459,USR-1075,2026-09-24 01:47:22,2049.31,Efectivo,Rechazada,Guadalajara
+TXN-100460,USR-1163,2026-10-04 17:01:22,613.01,Tarjeta de Débito,Rechazada,Puebla
+TXN-100461,USR-1019,2026-10-11 08:45:22,2476.85,Efectivo,Pendiente,Puebla
+TXN-100462,USR-1137,2026-10-13 23:36:22,2309.54,Efectivo,Pendiente,CDMX
+TXN-100463,USR-1093,2026-10-15 08:41:22,1488.81,Tarjeta de Crédito,Aprobada,Guadalajara
+TXN-100464,USR-1169,2026-10-07 02:00:22,424.6,Tarjeta de Crédito,Pendiente,Puebla
+TXN-100465,USR-1193,2026-10-06 00:26:22,2414.65,Efectivo,Aprobada,CDMX
+TXN-100466,USR-1026,2026-10-02 16:51:22,563.17,Tarjeta de Débito,Rechazada,Monterrey
+TXN-100467,USR-1101,2026-10-12 00:02:22,1933.25,Tarjeta de Débito,Aprobada,CDMX
+TXN-100468,USR-1124,2026-09-25 16:26:22,745.98,Tarjeta de Crédito,Aprobada,Guadalajara
+TXN-100469,USR-1090,2026-10-05 02:55:22,864.56,Tarjeta de Débito,Pendiente,Puebla
+TXN-100470,USR-1090,2026-10-12 14:20:22,253.53,Efectivo,Aprobada,CDMX
+TXN-100471,USR-1077,2026-09-22 23:03:22,2027.46,Tarjeta de Crédito,Aprobada,Monterrey
+TXN-100472,USR-1166,2026-09-25 21:42:22,1696.24,Tarjeta de Débito,Aprobada,Querétaro
+TXN-100473,USR-1045,2026-10-16 01:04:22,409.16,Efectivo,Rechazada,Guadalajara
+TXN-100474,USR-1104,2026-10-19 14:06:22,469.69,Efectivo,Rechazada,CDMX
+TXN-100475,USR-1189,2026-10-18 21:01:22,2208.97,Efectivo,Pendiente,Puebla
+TXN-100476,USR-1100,2026-09-21 03:06:22,1764.94,Tarjeta de Débito,Aprobada,CDMX
+TXN-100477,USR-1148,2026-09-25 13:23:22,2000.86,Tarjeta de Débito,Aprobada,Monterrey
+TXN-100478,USR-1051,2026-10-11 18:01:22,294.19,Efectivo,Pendiente,Monterrey
+TXN-100479,USR-1153,2026-10-08 14:44:22,1532.35,Tarjeta de Crédito,Aprobada,Monterrey
+TXN-100480,USR-1118,2026-10-19 00:34:22,440.01,Transferencia,Pendiente,Querétaro
+TXN-100481,USR-1022,2026-09-27 00:33:22,790.18,Tarjeta de Débito,Aprobada,CDMX
+TXN-100482,USR-1047,2026-10-07 21:59:22,1736.81,Efectivo,Rechazada,Querétaro
+TXN-100483,USR-1036,2026-10-17 02:05:22,965.75,Tarjeta de Débito,Rechazada,Querétaro
+TXN-100484,USR-1178,2026-10-20 07:02:22,2327.47,Tarjeta de Débito,Pendiente,Guadalajara
+TXN-100485,USR-1126,2026-10-04 01:44:22,359.77,Transferencia,Rechazada,Querétaro
+TXN-100486,USR-1014,2026-10-07 06:24:22,2380.11,Efectivo,Aprobada,Guadalajara
+TXN-100487,USR-1099,2026-10-16 11:38:22,1268.79,Efectivo,Rechazada,Puebla
+TXN-100488,USR-1107,2026-10-11 03:03:22,1227.12,Tarjeta de Crédito,Pendiente,CDMX
+TXN-100489,USR-1195,2026-09-30 23:07:22,737.66,Transferencia,Aprobada,Querétaro
+TXN-100490,USR-1074,2026-09-28 13:58:22,1954.15,Efectivo,Pendiente,Querétaro
+TXN-100491,USR-1029,2026-10-16 23:48:22,294.82,Transferencia,Pendiente,CDMX
+TXN-100492,USR-1195,2026-10-11 00:20:22,1370.65,Efectivo,Aprobada,Guadalajara
+TXN-100493,USR-1077,2026-09-22 09:27:22,1130.11,Transferencia,Aprobada,Puebla
+TXN-100494,USR-1031,2026-10-01 17:03:22,532.99,Transferencia,Pendiente,Puebla
+TXN-100495,USR-1043,2026-10-18 23:15:22,357.13,Tarjeta de Débito,Aprobada,CDMX
+TXN-100496,USR-1146,2026-10-06 21:26:22,1335.61,Tarjeta de Débito,Aprobada,Monterrey
+TXN-100497,USR-1075,2026-10-16 23:49:22,676.05,Tarjeta de Crédito,Aprobada,Puebla
+TXN-100498,USR-1016,2026-10-03 13:09:22,2169.01,Tarjeta de Débito,Aprobada,Guadalajara
+TXN-100499,USR-1038,2026-10-05 14:03:22,2073.01,Efectivo,Rechazada,Guadalajara
+TXN-100500,USR-1148,2026-10-19 17:00:22,679.47,Efectivo,Rechazada,Puebla
